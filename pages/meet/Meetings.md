@@ -1,0 +1,99 @@
+Title: Meetings
+Date: 2016-06-12 10:20
+Modified: 2016-06-12 10:30
+Authors: Richard Gowen
+Summary: Meetings
+url: /
+save_as: Meetings.html
+
+[Main Page](index.html) -\> [Meetings](Meetings.html)
+
+:   
+    :   [Annual Meeting Minutes](Annual_Meeting_Minutes.html) |
+        [Board Meeting Minutes](Board_Meeting_Minutes.html)
+
+Regular Meetings
+----------------
+
+From our [Bylaws](Bylaws.html):
+
+> Regular meetings for The LAB will be held the second Monday of each
+> month at 19:00 Central Time. Additional meetings may be held as
+> determined by the board of directors. The meeting shall be held at the
+> registered address or at a location determined by the board of
+> directors.
+
+At present we do not yet have a space. Until we do, our regular member
+meetings may not always be in the same location.
+
+We will be using our [Meetup](http://www.meetup.com/thelab-ms) event
+page to notify members of these meetings and their location.
+
+No official minutes will be kept for regular meetings. However, there is
+a [Meetings Forum](http://forum.thelab.ms/viewforum.php?f=8). There will
+be a forum post for each meeting outlining the event. This forum will be
+open for registered users to post questions, comments, and information
+to. So the documentation of our regular meetings will be as detailed as
+our community wishes to make it.
+
+Annual Meetings
+---------------
+
+From our [Bylaws](Bylaws.html):
+
+> The annual meeting shall occur at the standard meeting time and the
+> standard meeting place on the third Tuesday of May. The date and time
+> can be changed by the procedures for a Vote of the Membership, as
+> defined in these bylaws. The following issues shall be addressed at
+> the annual meeting:
+>
+> -   Election of all officers.
+> -   Election of all at-large directors.
+> -   Any other issues that members have placed before the membership to
+>     be discussed at the annual meeting, pursuant to the proposal and
+>     voting rules stated in these bylaws for Votes of the Membership.
+
+We hope to have our first official annual meeting of the membership in
+June 2014 just as the Bylaws dictate. The actual time and place for this
+meeting will be dependent upon the status of our space. Once confirmed
+this meeting will be announced via email (to registered users of this
+site who signed up for our newsletter) and will also be entered into our
+[Meetup](http://www.meetup.com/thelab-ms) event page.
+
+Meeting minutes for each of these meetings of the membership shall be
+recorded and made publicly available via the [Annual Meeting
+Minutes](Annual Meeting Minutes.html) page on this site.
+
+Board Meetings
+--------------
+
+From our [Bylaws](Bylaws.html):
+
+> The Board of Directors shall have an annual meeting, as required by
+> Texas law. The annual meeting of the board of directors shall be on
+> the third Tuesday in January. Notice of this annual meeting shall be
+> provided electronically to all directors and members of the
+> organization, at the e-mail address provided to the corporation, at
+> least 5 days in advance. Notice shall also be posted at the
+> corporations registered address. The Board of Directors may also call
+> special meetings other than the annual meeting, as necessary. Notice
+> of any special meeting shall be provided electronically to all
+> directors and members of the organization, at the e-mail address
+> provided to the corporation, at least 5 days in advance. Notice shall
+> also be posted at the corporation’s registered address. All Members
+> may attend any meeting of the board of directors.
+
+The Annual board meeting will be announced via email (to registered
+users of this site who signed up for our newsletter) and will also be
+entered into our [Meetup](http://www.meetup.com/thelab-ms) event page.
+
+In addition to the annual board meeting there are expected to be several
+special board meetings necessary for the creation of our organization,
+special fund raising efforts, and securing our physical space. Some of
+these have happened already in an informal manner. However, moving
+forward these will be formalized with notification just like the annual
+board meeting.
+
+Meeting minutes for all board meetings shall be recorded and made
+publicly available via the [Board Meeting Minutes](Board Meeting Minutes.html) page on this site.
+

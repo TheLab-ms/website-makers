@@ -1,0 +1,84 @@
+<table cellspacing="1" cellpadding="5" style="text-align:left; font-size:16px; width:90%">
+<tr style="text-align:center; font-size:22px; font-weight:bold; color:limegreen; background-color:#000000;">
+<td>Welcome to TheLab.ms wiki</td></tr>
+<tr>
+<td>
+TheLab.ms was formed to provide a place and the infrastructure for creative people to collaborate, share ideas, and pursue creative interests. We are an all volunteer, non-profit organization. We are a community resource currently hosting classes and meetups for the public around a wide variety of topics including: robotics, programming, beer brewing, wireless communications, and information security.
+</td>
+</tr>
+<tr style="text-align:center; font-weight:bold">
+<td>
+Welcome to TheLab.ms. Let's build something together!
+<br><br>
+</td>
+</tr>
+</table>
+
+<table cellspacing="1" cellpadding="5" style="text-align:left; font-size:16px; width:90%">
+<tr style="text-align:center; font-size:22px; font-weight:bold; color:limegreen; background-color:#000000;">
+<td style="width:33%">Events</td>
+<td style="width:34%">Program Pages</td>
+<td style="width:33%">Where To Find Us</td>
+</tr>
+<tr>
+<td style="vertical-align:top; width:33%">
+Please check out our [http://www.meetup.com/TheLab-ms/ Meetup] page for all our upcoming events.<br>
+Upcoming Meetup Events:
+<rss max=4 templatename="MediaWiki:Rss-Meetup-Links">http://www.meetup.com/TheLab-ms/events/rss/</rss>
+</td>
+<td style="vertical-align:top; width:34%">
+{{:Programs}}
+</td>
+<td style="vertical-align:top; width:33%">
+<h5>Our Content</h5>
+<table>
+<tr><td>Home</td><td>[http://www.thelab.ms TheLab.ms]<td></tr>
+<tr><td>Wiki</td><td>[http://wiki.thelab.ms Wiki.TheLab.ms]<td></tr>
+<tr><td>Forum</td><td>[http://forum.thelab.ms Forum.TheLab.ms]<td></tr>
+<tr><td>GitHub</td><td>[http://git.thelab.ms Git.TheLab.ms]<td></tr>
+</table>
+<h5>Social Media</h5>
+<table>
+<tr><td>Twitter</td><td>[http://twitter.thelab.ms Twitter.TheLab.ms]<td></tr>
+<tr><td>Reddit</td><td>[http://reddit.thelab.ms Reddit.TheLab.ms]<td></tr>
+<tr><td>Facebook</td><td>[http://facebook.thelab.ms Facebook.TheLab.ms]<td></tr>
+<tr><td>Google+</td><td>[http://google.thelab.ms Google.TheLab.ms]<td></tr>
+</table>
+<h5>Other Resources</h5>
+<table>
+<tr><td>[[IRC]]</td><td>[http://irc.thelab.ms/ IRC.TheLab.ms]<td></tr>
+<tr><td>Fortran</td><td>[http://fortran.thelab.ms Fortran.TheLab.ms]<td></tr>
+<tr><td>Meetup</td><td>[http://meetup.thelab.ms Meetup.TheLab.ms]<td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<table cellspacing="1" cellpadding="5" style="text-align:left; font-size:16px; width:90%">
+<tr style="text-align:center; font-size:22px; font-weight:bold; color:limegreen; background-color:#000000;">
+<td style="width:33%">Past Events</td>
+<td style="width:34%">Meetings</td>
+<td style="width:33%">Bylaws</td>
+</tr>
+<tr>
+<td style="vertical-align:top; width:33%">
+{{:Past Events}}
+</td>
+<td style="vertical-align:top; width:34%">
+*[[Meetings|About Our Meetings]]
+*[[Annual_Meeting_Minutes]]
+*[[Board_Meeting_Minutes]]
+We Just held out first Annual Meeting of the membership!
+<br>
+Congratulations to all our new Officers and Board Members! 
+<br>
+</td>
+<td style="vertical-align:top; width:33%">
+*[[Bylaws]]
+We have published our [[Bylaws]] for anyone to review.  These [[Bylaws]] are subject to change at our Annual Meeting of the membership.
+<br>
+</td>
+</tr>
+</table>
+

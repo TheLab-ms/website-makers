@@ -1,0 +1,23 @@
+[[Main Page]] -> [[IRC]]
+
+== IRC ==
+
+/I-R-C/ n. [Internet Relay Chat] - IRC provides a way of communicating in real time with people from all over the world. It consists of various separate networks (or "nets") of IRC servers, machines that allow users to connect to IRC. IRC is very similar to text messaging, but designed around communicating with large groups of users instead of one on one.
+
+
+== Clients ==
+[http://webchat.freenode.net/ Freenode Web Client]
+
+[http://irc.thelab.ms/ Connect to #thelab.ms channel via Freenode Web Client]
+
+[http://www.pidgin.im/ Pidgin]
+
+== Server ==
+Server:  irc.freenode.net
+Port:    6667
+Channel: #thelab.ms
+
+
+
+You can find more  information at [http://www.irchelp.org/ irchelp.org]
+

@@ -1,0 +1,160 @@
+Title: Brew of the Month 2016 Jan
+Date: 2010-12-03 10:20
+Modified: 2016-06-12 10:30
+Authors: Richard Gowen
+Summary: Brew Of The Month 2016 Jan
+url: /
+save_as: Brew_Of_The_Month_2016_Jan.html
+
+Thursday January 28th 19:00 Brew Night
+--------------------------------------
+
+Join TheLab.ms for a Brew Night event on Thursday January 28th at 7 PM.
+The event will be held in the garage/driveway of [703 Cypress Drive in
+Allen TX 75002](https://goo.gl/maps/l7MTr). This event is open to anyone
+over 21 years of age who wishes to spectate and learn the brewing
+process. However, only paying members of TheLab.ms over 21 years of age
+can participate in brewing their own batch.
+
+This brew night will have TheLab.ms members brew a Doppelbock. I've
+named this beer **DoppleGanger** since it will be a Doppelbock
+impersonating a Chocolate Stout (we are using some leftover chocolate
+malt from our previous brew).
+
+If you are a paying member of TheLab.ms over 21 years of age and wish to
+participate in brewing your own batch, then you will need to add a
+comment to this event indicating that so we can purchase your
+ingredients. Other than the ingredients you will need to bring all your
+own equipment.
+
+We look forward to seeing you at the event!
+
+### Required Equipment List For Brewers
+
+-   Mash Tun 10+ Gal capacity with a Spigot
+-   Brew Kettle 10+ Gal capacity
+-   Heat source (e.g. Propane burner)
+-   Fermentation Bucket 5+ Gal Capacity
+-   Fly Sparge Bucket 5+ Gal Capacity with a Spigot
+-   Wort Chiller or Ice Chest
+-   Utensils and Thermometer
+
+NOTE: Equipment is available for rent. Contact
+[richard@thelab.ms](mailto://richard@thelab.ms) for details.
+
+### View or Download this recipe from BeerSmithRecipes.com
+
+[<http://beersmithrecipes.com/viewrecipe/1021552/thelab-doppleganger>](http://beersmithrecipes.com/viewrecipe/1021552/thelab-doppleganger)
+
+### DoppleGanger - Dopplebock Impersonating A Chocolate Stout
+
+    -------------------------------------------------------------------------------------
+    Recipe: TheLab DoppleGanger
+    Brewer: TheLab.ms Members
+    Asst Brewer: 
+    Style: Doppelbock
+    TYPE: All Grain
+    Taste: (30.0) 
+
+    Recipe Specifications
+    --------------------------
+    Boil Size: 7.14 gal
+    Post Boil Volume: 5.72 gal
+    Batch Size (fermenter): 4.75 gal   
+    Bottling Volume: 5.03 gal
+    Estimated OG: 1.073 SG
+    Estimated Color: 35.8 SRM
+    Estimated IBU: 25.4 IBUs
+    Brewhouse Efficiency: 70.00 %
+    Est Mash Efficiency: 81.1 %
+    Boil Time: 90 Minutes
+
+    Ingredients:
+    ------------
+    Amt                   Name                                     Type          #        %/IBU         
+    8 lbs                 Pale Malt (2 Row) US (2.0 SRM)           Grain         1        57.1 %        
+    4 lbs                 Munich Malt (9.0 SRM)                    Grain         2        28.6 %        
+    1 lbs                 Chocolate Malt (250.0 SRM)               Grain         3        7.1 %         
+    8.0 oz                Barley, Flaked (1.7 SRM)                 Grain         4        3.6 %         
+    8.0 oz                Carafa III (525.0 SRM)                   Grain         5        3.6 %         
+    0.50 oz               Magnum [12.00 %] - Boil 60.0 min         Hop           6        19.5 IBUs     
+    0.24 tsp              Irish Moss (Boil 10.0 mins)              Fining        7        -             
+    1.00 oz               Goldings, East Kent [5.00 %] - Boil 10.0 Hop           8        5.9 IBUs      
+    1.0 pkg               German Bock Lager (White Labs #WLP833) [ Yeast         9        -             
+
+
+    Mash Schedule: Triple Infusion, Full Body
+    Total Grain Weight: 14 lbs
+    ----------------------------
+    Name              Description                             Step Temperat Step Time     
+    Acid Rest         Add 2.55 gal of water at 103.2 F        97.0 F        20 min        
+    Protein Rest      Add 1.05 gal of water at 197.9 F        122.0 F       25 min        
+    Saccharification  Add 2.80 gal of water at 207.5 F        156.0 F       35 min        
+    Mash Out          Add 2.10 gal of water at 208.2 F        168.0 F       10 min        
+
+    Sparge: Fly sparge with 1.13 gal water at 168.0 F
+    Notes:
+    ------
+    The DoppleGanger is a Dopplebock impersonating a Chocolate Stout.
+
+    This will be a complex beer for TheLab.ms brewers to pull off.   We will be doing a triple infusion mash with an extra long boil and doing yeast starters before pitching.  Then we will have to wait almost two months before we can taste it.  The waiting will be the hardest part.
+
+    ----------------------------
+    BREW PROCESS
+    ----------------------------
+    Recipe: TheLab DoppleGanger TYPE: All Grain
+    Style: Doppelbock
+    ---RECIPE SPECIFICATIONS-----------------------------------------------
+    SRM: 35.8 SRM       SRM RANGE: 6.0-25.0 SRM
+    IBU: 25.4 IBUs Tinseth  IBU RANGE: 16.0-26.0 IBUs
+    OG: 1.073 SG        OG RANGE: 1.072-1.112 SG
+    FG: 1.022 SG        FG RANGE: 1.016-1.024 SG
+    BU:GU: 0.346        Calories: 245.8 kcal/12oz   Est ABV: 6.8 %      
+    EE%: 70.00 %    Batch: 4.75 gal      Boil: 7.14 gal BT: 90 Mins
+
+    ---WATER CHEMISTRY ADDITIONS----------------
+
+
+    Total Grain Weight: 14 lbs  Total Hops: 1.50 oz oz.
+    ---MASH/STEEP PROCESS------MASH PH:5.40 ------
+    >>>>>>>>>>-ADD WATER CHEMICALS BEFORE GRAINS!!<<<<<<<
+    Amt                   Name                                     Type          #        %/IBU         
+    8 lbs                 Pale Malt (2 Row) US (2.0 SRM)           Grain         1        57.1 %        
+    4 lbs                 Munich Malt (9.0 SRM)                    Grain         2        28.6 %        
+    1 lbs                 Chocolate Malt (250.0 SRM)               Grain         3        7.1 %         
+    8.0 oz                Barley, Flaked (1.7 SRM)                 Grain         4        3.6 %         
+    8.0 oz                Carafa III (525.0 SRM)                   Grain         5        3.6 %         
+
+
+    Name              Description                             Step Temperat Step Time     
+    Acid Rest         Add 2.55 gal of water at 103.2 F        97.0 F        20 min        
+    Protein Rest      Add 1.05 gal of water at 197.9 F        122.0 F       25 min        
+    Saccharification  Add 2.80 gal of water at 207.5 F        156.0 F       35 min        
+    Mash Out          Add 2.10 gal of water at 208.2 F        168.0 F       10 min        
+
+    ---SPARGE PROCESS---
+    >>>>>>>>>>-RECYCLE FIRST RUNNINGS & VERIFY GRAIN/MLT TEMPS: 72.0 F/72.0 F
+    >>>>>>>>>>-ADD BOIL CHEMICALS BEFORE FWH
+    Fly sparge with 1.13 gal water at 168.0 F
+
+    ---BOIL PROCESS-----------------------------
+    Est Pre_Boil Gravity: 1.056 SG  Est OG: 1.073 SG
+    Amt                   Name                                     Type          #        %/IBU         
+    0.50 oz               Magnum [12.00 %] - Boil 60.0 min         Hop           6        19.5 IBUs     
+    0.24 tsp              Irish Moss (Boil 10.0 mins)              Fining        7        -             
+    1.00 oz               Goldings, East Kent [5.00 %] - Boil 10.0 Hop           8        5.9 IBUs      
+
+
+    ---FERM PROCESS-----------------------------
+    Primary Start: 28 Jan 2016 - 14.00 Days at 52.0 F
+    Secondary Start: 11 Feb 2016 - 7.00 Days at 52.0 F
+    Style Carb Range: 2.30-2.60 Vols
+    Bottling Date: 18 Feb 2016 with 2.3 Volumes CO2: 
+    ---NOTES------------------------------------
+    The DoppleGanger is a Dopplebock impersonating a Chocolate Stout.
+
+    This will be a complex beer for TheLab.ms brewers to pull off.   We will be doing a triple infusion mash with an extra long boil and doing yeast starters before pitching.  Then we will have to wait almost two months before we can taste it.  The waiting will be the hardest part
+
+
+    Created with BeerSmith 2 - http://www.beersmith.com
+    -------------------------------------------------------------------------------------

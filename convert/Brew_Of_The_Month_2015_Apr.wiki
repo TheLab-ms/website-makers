@@ -1,0 +1,127 @@
+== Thursday April 23rd 19:00 Brew Night ==
+Join TheLab.ms for a Brew Night event on Thursday April 23rd 7 PM. The event will be held in the garage/driveway of [https://goo.gl/maps/l7MTr 703 Cypress Drive in Allen TX 75002]. This event is open to anyone over 21 years of age who wishes to spectate and learn the brewing process. However, only paying members of TheLab.ms over 21 years of age can participate in brewing their own batch.
+
+
+While we had originally planned on brewing a Dusseldorf Altbier this month, alas I could not get the proper yeast in quantity in time for the brew night.  So instead we will brew a different recipe from a similar region of Germany.  The Kolsch bier produced in Cologne shares some traits with its Altbier cousin, but has a taste that is all its own.  Hopefully this Formerly Unplanned Cologne Kolsch will satisfy with every swallow. 
+
+
+If you are a paying member of TheLab.ms over 21 years of age and wish to participate in brewing your own batch, then you will need to add a comment to this event indicating that so we can purchase your ingredients. Other than the ingredients you will need to bring all your own equipment.  We have a set of equipment that can be rented from TheLab.ms on a first come first serve basis.
+
+
+We look forward to seeing you at the event!
+
+
+=== Required Equipment List For Brewers ===
+*Mash Tun 10+ Gal capacity with a Spigot
+*Brew Kettle 10+ Gal capacity 
+*Heat source (e.g. Propane burner) 
+*Fermentation Bucket 5+ Gal Capacity with air lock
+*Fly Sparge Bucket 5+ Gal Capacity with a Spigot
+*Wort Chiller or Ice Chest
+*Utensils and Thermometer
+NOTE: Equipment is available for rent.  Contact [mailto://richard@thelab.ms richard@thelab.ms] for details.
+
+
+=== View or Download this recipe from BeerSmithRecipes.com ===
+[http://beersmithrecipes.com/viewrecipe/756894/formerly-unplanned-cologne-kolsch http://beersmithrecipes.com/viewrecipe/756894/formerly-unplanned-cologne-kolsch]
+
+=== Formerly Unplanned Cologne Kolsch Recipe Details ===
+<pre>
+-------------------------------------------------------------------------------------
+BeerSmith 2 Recipe Printout - http://www.beersmith.com
+-------------------------------------------------------------------------------------
+Recipe: Formerly Unplanned Cologne Kolsch
+Brewer: Richard W Gowen
+Asst Brewer: 
+Style: Kölsch
+TYPE: All Grain
+Taste: (30.0) 
+
+Recipe Specifications
+--------------------------
+Boil Size: 6.46 gal
+Post Boil Volume: 5.46 gal
+Batch Size (fermenter): 5.00 gal   
+Bottling Volume: 5.05 gal
+Estimated OG: 1.049 SG
+Estimated Color: 4.9 SRM
+Estimated IBU: 25.3 IBUs
+Brewhouse Efficiency: 75.00 %
+Est Mash Efficiency: 78.7 %
+Boil Time: 60 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+7 lbs                 Pale Malt (2 Row) US (2.0 SRM)           Grain         1        77.8 %        
+2 lbs                 Munich Malt (8.0 SRM)                    Grain         2        22.2 %        
+1.00 oz               Hallertauer Hersbrucker [4.00 %] - Boil  Hop           3        15.8 IBUs     
+1.00 oz               Hallertauer Hersbrucker [4.00 %] - Boil  Hop           4        9.6 IBUs      
+0.25 tsp              Irish Moss (Boil 10.0 mins)              Fining        5        -             
+1.0 pkg               Kolsch Yeast (Wyeast Labs #2565) [124.21 Yeast         6        -             
+
+
+Mash Schedule: Single Infusion, Medium Body, No Mash Out
+Total Grain Weight: 9 lbs
+----------------------------
+Name                           Description                             Step Temperatu Step Time     
+Mash In                        Add 3.36 gal of water at 161.7 F        152.0 F        60 min        
+
+Sparge: Fly sparge with 4.73 gal water at 168.0 F
+
+
+Recipe: Formerly Unplanned Cologne Kolsch	TYPE: All Grain
+Style: Kölsch
+---RECIPE SPECIFICATIONS-----------------------------------------------
+SRM: 4.9 SRM		SRM RANGE: 3.5-5.0 SRM
+IBU: 25.3 IBUs Tinseth	IBU RANGE: 20.0-30.0 IBUs
+OG: 1.049 SG		OG RANGE: 1.044-1.050 SG
+FG: 1.011 SG		FG RANGE: 1.007-1.011 SG
+BU:GU: 0.515		Calories: 162.7 kcal/12oz	Est ABV: 5.0 %		
+EE%: 75.00 %	Batch: 5.00 gal      Boil: 6.46 gal	BT: 60 Mins
+
+---WATER CHEMISTRY ADDITIONS----------------
+
+
+Total Grain Weight: 9 lbs	Total Hops: 2.00 oz oz.
+---MASH/STEEP PROCESS------MASH PH:5.40 ------
+>>>>>>>>>>-ADD WATER CHEMICALS BEFORE GRAINS!!<<<<<<<
+Amt                   Name                                     Type          #        %/IBU         
+7 lbs                 Pale Malt (2 Row) US (2.0 SRM)           Grain         1        77.8 %        
+2 lbs                 Munich Malt (8.0 SRM)                    Grain         2        22.2 %        
+
+
+Name                           Description                             Step Temperatu Step Time     
+Mash In                        Add 3.36 gal of water at 161.7 F        152.0 F        60 min        
+
+---SPARGE PROCESS---
+>>>>>>>>>>-RECYCLE FIRST RUNNINGS & VERIFY GRAIN/MLT TEMPS: 72.0 F/72.0 F
+>>>>>>>>>>-ADD BOIL CHEMICALS BEFORE FWH
+Fly sparge with 4.73 gal water at 168.0 F
+
+---BOIL PROCESS-----------------------------
+Est Pre_Boil Gravity: 1.040 SG	Est OG: 1.049 SG
+Amt                   Name                                     Type          #        %/IBU         
+1.00 oz               Hallertauer Hersbrucker [4.00 %] - Boil  Hop           3        15.8 IBUs     
+1.00 oz               Hallertauer Hersbrucker [4.00 %] - Boil  Hop           4        9.6 IBUs      
+0.25 tsp              Irish Moss (Boil 10.0 mins)              Fining        5        -             
+
+
+---FERM PROCESS-----------------------------
+Primary Start: 23 Apr 2015 - 4.00 Days at 67.0 F
+Secondary Start: 27 Apr 2015 - 10.00 Days at 67.0 F
+Style Carb Range: 2.40-2.80 Vols
+Bottling Date: 07 May 2015 with 2.4 Volumes CO2: 
+---NOTES------------------------------------
+While we had originally planned on brewing a Dusseldorf Altbier this month, alas I 
+could not get the proper yeast in quantity in time for the brew night.  So instead 
+we will brew a different recipe from a similar region of Germany.  The Kolsch bier 
+produced in Cologne shares some traits with its Altbier cousin, but has a taste that 
+is all its own.  Hopefully this Formerly Unplanned Cologne Kolsch will satisfy with 
+every swallow
+
+-------------------------------------------------------------------------------------
+Created with BeerSmith 2 - http://www.beersmith.com
+-------------------------------------------------------------------------------------
+</pre>
+
