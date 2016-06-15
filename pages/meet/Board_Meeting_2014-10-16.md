@@ -1,5 +1,5 @@
 Title: Board Meeting 2014-10-16
-Date: 2010-12-03 10:20
+Date: 2014-10-16 10:20
 Modified: 2016-06-12 10:30
 Authors: Richard Gowen
 Summary: Board Meeting 2014-10-16
@@ -69,7 +69,7 @@ BSides hardware hacking village project. We were able to get Mike to
 agree to provide us some of his throwing star LAN Tap business cards. In
 order to make LAN Tap&#39;s from these cards we need to purchase the RJ45
 connectors and capacitors. Estimated spend for supplies would be about
-\$90. This was raised at the last membership meeting and received
+$90. This was raised at the last membership meeting and received
 support from the members for the idea.
 
 Vote on spending money for BSides hardware hacking project, pending

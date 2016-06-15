@@ -1,5 +1,5 @@
 Title: Board Meeting 2016-02-02
-Date: 2010-12-03 10:20
+Date: 2016-02-02 10:20
 Modified: 2016-06-12 10:30
 Authors: Richard Gowen
 Summary: Board Meeting 2016-02-02
@@ -43,20 +43,21 @@ detailing the costs and potential returns for kit sales was reviewed and
 scaled back slightly. Here is the final agreed upon list of kits and
 infrastructure that was put to a vote to approve spending of.
 
-  Item                                     Price      Quantity   Total
-  ---------------------------------------- ---------- ---------- ----------
-  Solar Cockroaches                        \$4.00     25         \$100.00
-  Bristle Bots                             \$4.00     25         \$100.00
-  Davinci Catapult                         \$15.00    5          \$75.00
-  Medieval Treb                            \$19.60    5          \$98.00
-  TVs for conference booths / Classrooms   \$350.00   1          \$350.00
-  TV Carts for Conf booths / Classrooms    \$100.00   1          \$100.00
-  Printed TheLab.ms table banners          \$55.00    2          \$110.00
-  TOTAL                                    \$933.00
+**Conference Expenses**
 
-  : Conference Expenses
+Item                                     | Price      | Quantity   | Total
+---------------------------------------- | ---------- | ---------- | ----------
+Solar Cockroaches                        | $4.00      | 25         | $100.00
+Bristle Bots                             | $4.00      | 25         | $100.00
+Davinci Catapult                         | $15.00     | 5          | $75.00
+Medieval Treb                            | $19.60     | 5          | $98.00
+TVs for conference booths / Classrooms   | $350.00    | 1          | $350.00
+TV Carts for Conf booths / Classrooms    | $100.00    | 1          | $100.00
+Printed TheLab.ms table banners          | $55.00     | 2          | $110.00
+TOTAL                                    |            |            | $933.00
 
-Vote on approving the spend of \$933.00 for conference expenses as
+
+Vote on approving the spend of $933.00 for conference expenses as
 detailed in the table above:
 
 -   Vote: 4 in favor, 0 opposed, 1 abstained
@@ -71,16 +72,16 @@ and RAM. In addition it was raised that we should allocate funds for
 upgrades to provide a redundant server. Here is a list of the costs that
 were put to a vote to approve the spending of.
 
-  Item                                               Price      Quantity   Total
-  -------------------------------------------------- ---------- ---------- -------
-  4 port gigabit ethernet and sata raid controller   \$254      1          \$254
-  16 GB RAM                                          \$97       1          \$97
-  New Server inc. Eth/Raid/RAM                       \$450      1          \$450
-  TOTAL                                              \$801.00
+**Server Upgrades**
 
-  : Server Upgrades
+Item                                               | Price      | Quantity   | Total
+-------------------------------------------------- | ---------- | ---------- | -------
+4 port gigabit ethernet and sata raid controller   | $254       | 1          | $254
+16 GB RAM                                          | $97        | 1          | $97
+New Server inc. Eth/Raid/RAM                       | $450       | 1          | $450
+TOTAL                                              |            |            | $801.00
 
-Vote on approving the spend of \$801.00 for server upgrades as detailed
+Vote on approving the spend of $801.00 for server upgrades as detailed
 in the table above:
 
 -   Vote: 4 in favor, 0 opposed, 1 abstained

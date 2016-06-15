@@ -1,5 +1,5 @@
 Title: Board Meeting 2015-12-09
-Date: 2010-12-03 10:20
+Date: 2015-12-09 10:20
 Modified: 2016-06-12 10:30
 Authors: Richard Gowen
 Summary: Board Meeting 2015-12-09
@@ -34,11 +34,11 @@ Business
 ### 1st Order of business:
 
 A motion has been raised regarding keeping the second 3D printer that we
-got as part of the original order snafu. We had originally paid \$1200
-for the 3D printer then it went on sale for \$1000. The only way to get
+got as part of the original order snafu. We had originally paid $1200
+for the 3D printer then it went on sale for $1000. The only way to get
 the sale price would be to order it again and return the original which
 is what we did. The motion is to keep both 3D printers which would be an
-additional spend of \$1000 over the \$2000 previously approved.
+additional spend of $1000 over the $2000 previously approved.
 
 Vote on approving the membership agreement and supplemental rules wiki
 documents:

@@ -42,7 +42,7 @@ Plank Holder Yearly    | $200/Yr             | Yearly for members in good standi
 Lifetime               | No longer offered   | These members paid $1000 prior to 12/31/2015.
 
 Those members who signed up for a recurring payment plan prior to
-12/31/2015 are considered plank holders and lock in their membership
+12/31/2015 are considered plank holders and locked in their membership
 dues amount at $20/Mo or $200/Yr for as long as they keep their
 membership current.
 

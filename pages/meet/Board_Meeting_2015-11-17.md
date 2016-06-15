@@ -1,5 +1,5 @@
 Title: Board Meeting 2015-11-17
-Date: 2010-12-03 10:20
+Date: 2015-11-17 10:20
 Modified: 2016-06-12 10:30
 Authors: Richard Gowen
 Summary: Board Meeting 2015-11-17
@@ -35,7 +35,7 @@ Business
 
 A motion has been raised regarding approving the spend for purchasing a
 3D printer and two 50" LCD displays. The cost will be approximately
-\$2000 for all these items.
+$2000 for all these items.
 
 Vote on approving the membership agreement and supplemental rules wiki
 documents:

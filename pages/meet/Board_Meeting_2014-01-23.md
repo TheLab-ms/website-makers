@@ -1,5 +1,5 @@
 Title: Board Meeting 2014-01-23
-Date: 2010-12-03 10:20
+Date: 2014-01-23 10:20
 Modified: 2016-06-12 10:30
 Authors: Richard Gowen
 Summary: Board Meeting 2014-01-23
@@ -57,11 +57,11 @@ will reach the current one year expiration point prior to this meeting.
 
 ### 3rd Order of business:
 
-Can we spend the \$850 needed to file for federal tax exempt status?
+Can we spend the $850 needed to file for federal tax exempt status?
 Agreement that if we postpone repayment of founding board member
 expenditures then we can afford to file now.
 
-Vote on spending \$850 to file for federal tax exempt status.
+Vote on spending $850 to file for federal tax exempt status.
 
 -   Vote: 3 in favor, 0 opposed, 0 abstained
 -   Resolution: Vote passed
@@ -79,7 +79,7 @@ Founding members and incentives for them. Defined founding members as
 those members who started paid memberships prior to us signing the lease
 on a physical space. We should have some incentives to encourage more
 members to start paid memberships now. The first incentive will be that
-founding members will have thier membership fee of \$20/mo \$200/yr
+founding members will have thier membership fee of $20/mo $200/yr
 locked in at that rate regardless of future fee increases for as long as
 they remain a paid member in good standing. Future incentives could
 include items like free t-shirts, etc.

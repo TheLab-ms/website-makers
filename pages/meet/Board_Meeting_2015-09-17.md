@@ -1,5 +1,5 @@
 Title: Board Meeting 2015-09-17
-Date: 2010-12-03 10:20
+Date: 2015-09-17 10:20
 Modified: 2016-06-12 10:30
 Authors: Richard Gowen
 Summary: Board Meeting 2015-09-17
@@ -35,7 +35,7 @@ Business
 
 A motion has been raised regarding approving the spend and entering into
 a contract with Time Warner Cable for internet service at our new space.
-The cost will be approximately \$150/Mo with a 3 year commitment.
+The cost will be approximately $150/Mo with a 3 year commitment.
 
 Vote on approving the membership agreement and supplemental rules wiki
 documents:

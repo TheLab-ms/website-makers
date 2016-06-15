@@ -1,5 +1,5 @@
 Title: Board Meeting 2015-04-02
-Date: 2010-12-03 10:20
+Date: 2015-04-02 10:20
 Modified: 2016-06-12 10:30
 Authors: Richard Gowen
 Summary: Board Meeting 2015-04-02
@@ -96,7 +96,7 @@ Here is a summary of the new sponsorship levels being voted on:
 >         meetings as a Named Sponsor.
 >     -   Will be listed as a Named Sponsor on all of our web pages.
 >
-> Our Current Annual Goal Is \$36,000 Multi-Year Contracts Lock In A
+> Our Current Annual Goal Is $36,000 Multi-Year Contracts Lock In A
 > Discounted Price\*
 >
 > <table>
@@ -124,15 +124,15 @@ Here is a summary of the new sponsorship levels being voted on:
 >
 > </td>
 > <td>
-> \$18,000
+> $18,000
 >
 > </td>
 > <td>
-> \$30,600 (\$15,300/Year)
+> $30,600 ($15,300/Year)
 >
 > </td>
 > <td>
-> \$40,500 (\$13,500/Year)
+> $40,500 ($13,500/Year)
 >
 > </td>
 > </tr>
@@ -142,15 +142,15 @@ Here is a summary of the new sponsorship levels being voted on:
 >
 > </td>
 > <td>
-> \$12,000
+> $12,000
 >
 > </td>
 > <td>
-> \$20,400 (\$10,200/Year)
+> $20,400 ($10,200/Year)
 >
 > </td>
 > <td>
-> \$27,000 (\$9,000/Year)
+> $27,000 ($9,000/Year)
 >
 > </td>
 > </tr>
@@ -160,15 +160,15 @@ Here is a summary of the new sponsorship levels being voted on:
 >
 > </td>
 > <td>
-> \$9,000
+> $9,000
 >
 > </td>
 > <td>
-> \$15,300 (\$7,650/Year)
+> $15,300 ($7,650/Year)
 >
 > </td>
 > <td>
-> \$20,250 (\$6,750/Year)
+> $20,250 ($6,750/Year)
 >
 > </td>
 > </tr>
@@ -178,15 +178,15 @@ Here is a summary of the new sponsorship levels being voted on:
 >
 > </td>
 > <td>
-> \$6,000
+> $6,000
 >
 > </td>
 > <td>
-> \$10,200 (\$5,100/Year)
+> $10,200 ($5,100/Year)
 >
 > </td>
 > <td>
-> \$13,500 (\$4,500/Year)
+> $13,500 ($4,500/Year)
 >
 > </td>
 > </tr>
@@ -196,15 +196,15 @@ Here is a summary of the new sponsorship levels being voted on:
 >
 > </td>
 > <td>
-> \$2,000
+> $2,000
 >
 > </td>
 > <td>
-> \$3,400 (\$1,700/Year)
+> $3,400 ($1,700/Year)
 >
 > </td>
 > <td>
-> \$4,500 (\$1,500/Year)
+> $4,500 ($1,500/Year)
 >
 > </td>
 > </tr>
@@ -218,7 +218,7 @@ Here is a summary of the new sponsorship levels being voted on:
 > Sponsorship Levels
 >
 > -   Minor Event Sponsor
->     -   Those who donate at least \$100 (cash or equivalent in
+>     -   Those who donate at least $100 (cash or equivalent in
 >         items/services) for an event with less than 100 planned
 >         participants have the following benefits:
 >     -   Will be listed as a Named Sponsor for the event on all event
@@ -226,7 +226,7 @@ Here is a summary of the new sponsorship levels being voted on:
 >     -   Will be mentioned as a Named Sponsor at the event (method will
 >         vary by event)
 > -   Major Event Sponsor
->     -   Those who donate at least \$1500 (cash or equivalent in
+>     -   Those who donate at least $1500 (cash or equivalent in
 >         items/services) for an event with 100 or more planned
 >         participants have the following benefits:
 >     -   Will be listed as a Named Sponsor for the event on all event
@@ -234,7 +234,7 @@ Here is a summary of the new sponsorship levels being voted on:
 >     -   Will be mentioned as a Named Sponsor at the event (method will
 >         vary by event)
 > -   Lifetime Members
->     -   Those who donate \$1000 prior to us having a physical space
+>     -   Those who donate $1000 prior to us having a physical space
 >         have the following benefits:
 >     -   Will have lifetime membership status and never need to pay
 >         future membership fees.
@@ -244,7 +244,7 @@ Here is a summary of the new sponsorship levels being voted on:
 > -   Plank Owners
 >     -   Those who become paid members prior to us having a physical
 >         space will have their membership fees locked in at the current
->         \$20/Month or \$200/Year amount for as long as they remain
+>         $20/Month or $200/Year amount for as long as they remain
 >         paid members in good standing.
 
 Vote on the new sponsorship levels as described:

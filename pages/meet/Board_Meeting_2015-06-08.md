@@ -1,5 +1,5 @@
 Title: Board Meeting 2015-06-08
-Date: 2010-12-03 10:20
+Date: 2015-06-08 10:20
 Modified: 2016-06-12 10:30
 Authors: Richard Gowen
 Summary: Board Meeting 2015-06-08
@@ -26,8 +26,7 @@ Board Meeting 2015-06-08 Minutes
 
 ### Location and Time
 
-Meeting held on June 8, at the Outback just prior to annual member
-meeting.
+Meeting held on June 8, at the Outback just prior to annual member meeting.
 
 Business
 --------
@@ -36,7 +35,7 @@ Business
 
 A motion has been raised regarding Extending plank holder member
 registration until Dec 31st given that we signed a lease prior to
-reaching our stated annual goal of \$36k.
+reaching our stated annual goal of $36k.
 
 Vote on Extending plank holder member registration until Dec 31st:
 
@@ -47,7 +46,7 @@ Vote on Extending plank holder member registration until Dec 31st:
 
 A motion has been raised regarding Extending lifetime member
 registration until Dec 31st given that we signed a lease prior to
-reaching our stated annual goal of \$36k.
+reaching our stated annual goal of $36k.
 
 Vote on Extending lifetime member registration until Dec 31st:
 
@@ -57,10 +56,10 @@ Vote on Extending lifetime member registration until Dec 31st:
 ### 3rd Order of business:
 
 A motion has been raised regarding setting our new annual goal to be
-\$50,000 effective Jan 1st (28% increase over current \$36k goal)
+$50,000 effective Jan 1st (28% increase over current $36k goal)
 
-Vote on new annual goal of \$50,000 effective Jan 1st (28% increase over
-current \$36k goal):
+Vote on new annual goal of $50,000 effective Jan 1st (28% increase over
+current $36k goal):
 
 -   Vote: 5 in favor, 0 opposed, 0 abstained
 -   Resolution: Vote passed
@@ -82,18 +81,13 @@ A motion has been raised regarding setting the amount of the new
 membership fees that will be effective Jan 1st. Several options have
 been presented as follows:
 
--   5a) New member rates of \$25/Mo or \$250/Yr (20% increase over
-    current rates)
--   5b) \$26/Mo or \$256/y (28% increase)
--   5c) \$25/Mo or \$220/Yr (20%/10% respectivley) Giving annual people
-    a bigger break.
--   5d) Push this vote to a future board meeting after we are settled in
-    the new space.
+-   5a) New member rates of $25/Mo or $250/Yr (20% increase over current rates)
+-   5b) $26/Mo or $256/y (28% increase)
+-   5c) $25/Mo or $220/Yr (20%/10% respectivley) Giving annual people a bigger break.
+-   5d) Push this vote to a future board meeting after we are settled in the new space.
 
 Vote on raising our membership fees effective Jan 1st:
 
--   Vote: 3 in favor of 5d (push the vote), 2 in favor of 5c (20%/10%
-    increase), 0 opposed, 0 abstained
--   Resolution: Vote passed in favor of pushing this vote out to a
-    future board meeting.
+-   Vote: 3 in favor of 5d (push the vote), 2 in favor of 5c (20%/10% increase), 0 opposed, 0 abstained
+-   Resolution: Vote passed in favor of pushing this vote out to a future board meeting.
 

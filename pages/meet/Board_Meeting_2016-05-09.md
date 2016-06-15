@@ -1,5 +1,5 @@
 Title: Board Meeting 2016-05-09
-Date: 2010-12-03 10:20
+Date: 2016-05-09 10:20
 Modified: 2016-06-12 10:30
 Authors: Richard Gowen
 Summary: Board Meeting 2016-05-09
@@ -35,9 +35,9 @@ Business
 A motion has been raised regarding approving the spend of money to fix
 the donated bus in order to sell it as a fundraiser.
 
-We would need to spend up to \$500 for tires and brakes and batteries.
+We would need to spend up to $500 for tires and brakes and batteries.
 
-Vote on approving the spend of no more than \$500.00 for repairs to the
+Vote on approving the spend of no more than $500.00 for repairs to the
 donated bus:
 
 -   Vote: 4 in favor, 0 opposed, 1 abstained
@@ -50,9 +50,9 @@ purchase another rolling TV stand similar to the one we have.
 
 We already have a TV to place on a TV stand should it be approved.
 
-We would need to spend approximately \$200 for the new rolling TV stand.
+We would need to spend approximately $200 for the new rolling TV stand.
 
-Vote on approving the spend of \$200.00 for a rolling TV stand:
+Vote on approving the spend of $200.00 for a rolling TV stand:
 
 -   Vote: 4 in favor, 0 opposed, 1 abstained
 -   Resolution: Vote passed

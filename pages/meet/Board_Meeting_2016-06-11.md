@@ -1,5 +1,5 @@
 Title: Board Meeting 2016-06-11
-Date: 2010-12-03 10:20
+Date: 2016-06-11 10:20
 Modified: 2016-06-12 10:30
 Authors: Richard Gowen
 Summary: Board Meeting 2016-06-11
@@ -33,7 +33,7 @@ Business
 ### 1st Order of business:
 
 A motion has been raised regarding approving the spend of no more than
-\$25 per month for the Amazon AWS account that is hosting our website.
+$25 per month for the Amazon AWS account that is hosting our website.
 
 Vote on the motion:
 
@@ -43,7 +43,7 @@ Vote on the motion:
 ### 2nd Order of business:
 
 A motion has been raised regarding approving the spend of no more than
-\$120 per month for home brew program to supply ingredients to members
+$120 per month for home brew program to supply ingredients to members
 brewing at the monthly brew night events.
 
 Vote on the motion:
@@ -64,7 +64,7 @@ Vote on the motion:
 
 ### 4th Order of business:
 
-A motion has been raised regarding spending \$200 for live entertainment
+A motion has been raised regarding spending $200 for live entertainment
 at the annual meeting. This money will be compensated via a donation at
 the event making it a net zero cost.
 

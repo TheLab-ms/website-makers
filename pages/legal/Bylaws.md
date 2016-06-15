@@ -10,19 +10,19 @@ save_as: Bylaws.html
 
 **Bylaws**
 
-This document is the Bylaws of [TheLAB.MS](https://thelab.ms). 
+This document is the Bylaws of [TheLab.ms](https://thelab.ms). 
 
 Thank you to [The Pumping Station: One](https://wiki.pumpingstationone.org/index.php/Bylaws) for allowing
 us to use your bylaws as a template.
 
-This document details the operation of [TheLAB.MS](https://thelab.ms).
+This document details the operation of [TheLab.ms](https://thelab.ms).
 
 1 Purpose
 ---------
 
 ### 1.1 Statement of Purpose
 
-[TheLAB.MS](https://thelab.ms), is organized exclusively for
+[TheLab.ms](https://thelab.ms), is organized exclusively for
 charitable, educational, and scientific purposes within the meaning of
 Section 501(c)(3) of the Internal Revenue Code of 1986 (or the
 corresponding section of any future United States Internal Revenue law).
@@ -46,7 +46,7 @@ culture.
 2 Location
 ----------
 
-[TheLAB.MS](https://thelab.ms) shall continuously maintain in the
+[TheLab.ms](https://thelab.ms) shall continuously maintain in the
 State of Texas a registered office and a registered agent whose business
 office, for the purposes of this corporation, is identical with such
 registered office. The registered office shall be the physical location
@@ -61,7 +61,7 @@ the registered office shall be determined by the board of directors.
 #### 3.1.1 Admission of Members
 
 An applicant will be admitted to membership in
-[TheLAB.MS](https://thelab.ms) only on submitting an application for
+[TheLab.ms](https://thelab.ms) only on submitting an application for
 membership with the secretary or the secretary’s designate, and
 satisfying the dues. Applications for membership will be in a form
 prescribed by the board of directors.
@@ -75,7 +75,7 @@ any member who is in default of dues. In addition, the board of
 directors, by affirmative vote of two-thirds of all of the members of
 the board, may suspend or expel a member for conduct that the board
 deems detrimental to the objectives or interests of
-[TheLAB.MS](https://thelab.ms), or in violation of its bylaws, code
+[TheLab.ms](https://thelab.ms), or in violation of its bylaws, code
 of ethics, or rules and regulations, provided the member is given notice
 of the proceedings and an opportunity to be heard in his or her own
 defense.
@@ -99,7 +99,7 @@ directors deems appropriate.
 
 #### 3.1.5 Transfer of Membership
 
-Membership in [TheLAB.MS](https://thelab.ms) is transferable or
+Membership in [TheLab.ms](https://thelab.ms) is transferable or
 assignable. However, no such transfer is valid unless the proposed
 transfer is submitted with the secretary or the secretary’s designate in
 writing and approved by a majority vote of the board.
@@ -110,7 +110,7 @@ Membership will terminate on the death or resignation of a member, the
 transfer of his or her membership in accordance with these bylaws, or on
 expulsion of the member by the board of directors. On such termination,
 any right, title, or interest of the member in or to the property and
-assets of [TheLAB.MS](https://thelab.ms) will cease.
+assets of [TheLab.ms](https://thelab.ms) will cease.
 
 ### 3.2 Dues
 
@@ -124,7 +124,7 @@ and on the membership application forms.
 
 A member may satisfy the membership dues via a monthly or annual payment
 of the amount specified by the board of directors to
-[TheLAB.MS](https://thelab.ms). A member may also satisfy the
+[TheLab.ms](https://thelab.ms). A member may also satisfy the
 membership dues via member points or other non-monetary means (e.g.
 prizes, gift cards, etc.) that have been approved by the board of
 directors.
@@ -165,12 +165,12 @@ All Members must also fulfill the following responsibilities:
 -   Members must satisfy the dues as determined by the board of
     directors.
 -   Members and their guests shall abide by a membership agreement while
-    at [TheLAB.MS](https://thelab.ms) facilities and events. The
+    at [TheLab.ms](https://thelab.ms) facilities and events. The
     membership agreement will be posted in the physical workspace and
     will also be made available online for member review.
 -   At the time a member&#39;s eligibility expires, he must forfeit his or
     her method of entry in addition to any other property owned by
-    [TheLAB.MS](https://thelab.ms) to a member of the board of
+    [TheLab.ms](https://thelab.ms) to a member of the board of
     directors or an agent designated by the board of directors for this
     purpose.
 
@@ -192,7 +192,7 @@ responsibilities:
     electronic mail address for receiving official notice of members&#39;
     meetings.
 -   A voting member must thoughtfully contribute to
-    [TheLAB.MS](https://thelab.ms)’s direction and policies.
+    [TheLab.ms](https://thelab.ms)’s direction and policies.
 -   A voting member’s membership details may be disclosed as required by
     law.
 
@@ -211,7 +211,7 @@ responsibilities:
 
 Members can be awarded Membership Points (Points) for various things
 they do that benefit the space. Points can be redeemed for items
-purchased from [TheLAB.MS](https://thelab.ms) and/or used to reduce a
+purchased from [TheLab.ms](https://thelab.ms) and/or used to reduce a
 member&#39;s dues. Points can be earned by:
 
 -   Bringing in donations from third parties (cumulative throughout the
@@ -221,7 +221,7 @@ member&#39;s dues. Points can be earned by:
     more earns 1 Point. Only one member can receive a Point award per
     event or class.
 -   Performing a substantive, significant service to
-    [TheLAB.MS](https://thelab.ms) (as determined by the Board of
+    [TheLab.ms](https://thelab.ms) (as determined by the Board of
     Directors). For example: a cleanup event, organizing a large scale
     party, donor event, etc.
 
@@ -273,7 +273,7 @@ volunteer for the role
 
 ### 4.1 Regular Meetings
 
-Regular meetings for [TheLAB.MS](https://thelab.ms) shall be held
+Regular meetings for [TheLab.ms](https://thelab.ms) shall be held
 once a month at a time and date set by the board of the directors.
 Additional meetings may be held as determined by the board of directors.
 The meeting shall be held at the registered address or at a location
@@ -281,9 +281,10 @@ determined by the board of directors.
 
 ### 4.2 Annual Meetings
 
-The annual meeting shall occur once a year at a time and date set by the
-board of the directors or by a Vote of the Membership, as defined in
-these bylaws. The meeting shall be held at the registered address or at
+The annual meeting shall occur once a year on the first Tuesday of June or 
+within ten days of that date at a time and date set by the board of the directors 
+or by a Vote of the Membership, as defined in these bylaws.
+The meeting shall be held at the registered address or at
 a location determined by the board of directors. The following issues
 shall be addressed at the annual meeting:
 
@@ -327,8 +328,7 @@ the corporation’s web site and at the corporation’s registered location.
 ### 4.5 Meeting Procedure
 
 Meeting procedure shall follow the MIBS Simplified Rules of Coordinated
-Consensus Through Chaos, available at [MIBS
-Rules](https://wiki.pumpingstationone.org/MIBS_Rules).
+Consensus Through Chaos, available at [MIBS Rules](https://wiki.pumpingstationone.org/MIBS_Rules).
 
 5 Voting
 --------
@@ -343,7 +343,7 @@ authority or by a subsequent vote of the membership.
 
 #### 5.1.2 Quorum
 
-Quorum for a vote of the membership of [TheLAB.MS](https://thelab.ms)
+Quorum for a vote of the membership of [TheLab.ms](https://thelab.ms)
 shall require at least one-third of the existing voting membership on
 the day of the vote. For the purposes of calculating the quorum,
 properly submitted proxy statements by members shall count as
@@ -419,8 +419,7 @@ The board may decide on issues related to:
 -   spending money from the general fund necessary to keep the
     organization&#39;s property in good working order and functioning in
     fulfillment of the organization&#39;s mission,
--   spending money from the general fund on infrastructure improvements
-    costing less than $300,
+-   spending money from the general fund on infrastructure improvements,
 -   spending money from the general fund to obtain advice and services
     for the management of the organization or the fulfillment of the
     organization&#39;s mission,
@@ -429,7 +428,7 @@ The board may decide on issues related to:
 
 #### 5.2.2 Quorum
 
-Quorum for a vote of the directors of [TheLAB.MS](https://thelab.ms)
+Quorum for a vote of the directors of [TheLab.ms](https://thelab.ms)
 shall require at least 50% of the existing directors with a minimum of 3
 directors on the day of the vote. Directors present at the meeting via
 teleconferencing equipment are considered present.
@@ -477,12 +476,11 @@ present via telecommunications count toward calculating that majority.
 6 Officers
 ----------
 
-[TheLAB.MS](https://thelab.ms) is led by a group of officers with
+[TheLab.ms](https://thelab.ms) is led by a group of officers with
 designated responsibilities according to their role. No officer shall be
 compensated for his work as an officer, although the corporation may
-provide insurance and indemnity for its officers as permitted by Texas
-law. No officer may serve more than three consecutive terms as an
-officer.
+provide insurance and indemnity for its officers as permitted by Texas law.
+No officer may serve more than three consecutive terms in the same office.
 
 ### 6.1 Eligibility
 
@@ -508,9 +506,8 @@ position, or choose to appoint his successor.
 
 ### 6.3 Elections
 
-Elections shall be held every year at the annual meeting of members on
-the first Tuesday of June. A majority vote of Voting Members will
-determine the winner of each election.
+Elections shall be held every year at the annual meeting of members.
+A majority vote of Voting Members will determine the winner of each election.
 
 ### 6.4 Naming Rights
 
@@ -523,29 +520,27 @@ the same as detailed in the bylaws.
 #### 6.5.1 Treasurer
 
 The Treasurer is responsible for monitoring all financial assets of
-[TheLAB.MS](https://thelab.ms). This includes but is not restricted
+[TheLab.ms](https://thelab.ms). This includes but is not restricted
 to the collection of membership dues from members, the payment of rent
-and utilities for any space leased by [TheLAB.MS](https://thelab.ms),
+and utilities for any space leased by [TheLab.ms](https://thelab.ms),
 the disbursement and reimbursement of funds authorized to be spent under
-the procedures detailed in these bylaws. The Treasurer is empowered to
-reimburse anyone for the purchase of safety equipment to be dedicated to
-[TheLAB.MS](https://thelab.ms) out of the general fund. The Treasurer
-is also empowered to buy safety equipment for
-[TheLAB.MS](https://thelab.ms) directly. The sum of these
-reimbursements and purchases may not exceed $200 per calendar year or
-$50 per reimbursement incident or purchase. What constitutes "safety
-equipment" will be determined by the Treasurer and/or the chair of the
-safety committee on a case by case basis. A receipt must be provided for
-all donations or purchases that are reimbursed or paid for under this
-resolution. Reimbursements will be granted at the discretion of the
-Treasurer on a case by case basis. Whenever a reimbursement or purchase
-occurs, The treasurer must notify the membership via email what items
-were reimbursed or purchased by whom and how much they cost.
+the procedures detailed in these bylaws.
+The Treasurer is empowered to reimburse anyone for the minor purchase of equipment or 
+supplies to be dedicated to [TheLab.ms](https://thelab.ms) out of the general fund. 
+The Treasurer is also empowered to make minor purchases of equipment or supplies for 
+[TheLab.ms](https://thelab.ms) directly. The sum of these reimbursements and 
+purchases may not exceed $500 per calendar year or $100 per reimbursement 
+incident or purchase.
+A receipt must be provided for all donations or purchases that are 
+reimbursed or paid for under this resolution. 
+Reimbursements will be granted at the discretion of the Treasurer on a case by case basis.
+Whenever a reimbursement or purchase occurs, The treasurer must notify the membership 
+electronically regarding what items were reimbursed or purchased by whom and how much they cost.
 
 #### 6.5.2 Chief Legal Officer
 
 The Chief Legal Officer has the responsibility of overseeing all legal
-aspects of [TheLAB.MS](https://thelab.ms). The Chief Legal Officer
+aspects of [TheLab.ms](https://thelab.ms). The Chief Legal Officer
 will advise Officers and Membership when changes are made to applicable
 laws and ensure that the organization is in compliance with regulatory
 codes.
@@ -571,6 +566,19 @@ internal network of the physical space.
 The Public Relations Officer role is tied to the Vice President board of
 director position. See that positions details for an explanation of
 duties.
+
+#### 6.5.6 Fundraising Coordinator
+
+The Fundraising Coordinator´s primary responsibilities are to manage all 
+fundraising activities and projects. Working with other officers and directors 
+as well as project leaders to provide a coordinated effort towards fundraising.
+
+#### 6.5.7 Facility Coordinator
+
+The Facility Coordinator´s primary responsibilities are to manage all tasks 
+regarding to the maintenance, upkeep, and physical security of our facilities. 
+Working with other officers and directors as to provide a coordinated effort 
+towards maintaining our facilities.
 
 ### 6.6 Expiration of Term
 
@@ -605,7 +613,7 @@ insurance and indemnity as permitted by Texas law.
 ### 7.1 President
 
 The President shall preside over all meetings of the membership. He or
-she also serves as a representative of [TheLAB.MS](https://thelab.ms)
+she also serves as a representative of [TheLab.ms](https://thelab.ms)
 to the public, and in all functions where a President may be called for
 by law or any other outside requirements. The president is responsible
 for making sure that the corporation files its annual report, Texas
@@ -613,15 +621,15 @@ charitable organization statements, and any other papers required to
 maintain legal nonprofit status by the law of Texas or Federal law.
 
 The President, acting in the best interest of
-[TheLAB.MS](https://thelab.ms), is hereby authorized at the
+[TheLab.ms](https://thelab.ms), is hereby authorized at the
 discretion of the board (via a vote of the board) to enter in
-contractual agreements on behalf of [TheLAB.MS](https://thelab.ms)
+contractual agreements on behalf of [TheLab.ms](https://thelab.ms)
 where no liability or financial commitment is assumed by the
 organization. Agreements which include a clause placing risk on the
 organization such as fines for breach of contract or claims to property
 as recourse, for example, are not eligible to be approved by the board.
 Upon entering in a contract on behalf of
-[TheLAB.MS](https://thelab.ms), the President is required to
+[TheLab.ms](https://thelab.ms), the President is required to
 immediately notify the membership and make a signed copy available for
 review. The President is strongly encouraged to continue consulting with
 the membership on such issues, but will not require Member approval.
@@ -665,9 +673,9 @@ The Secretary shall be responsible for recording all minutes of all
 official meetings of the membership and the board of directors. The
 Secretary must make available a hard copy of the minutes of all meetings
 of the members and the board of directors at the registered location of
-[TheLAB.MS](https://thelab.ms), in addition to making such records
+[TheLab.ms](https://thelab.ms), in addition to making such records
 available online in a static format on the
-[TheLAB.MS](https://thelab.ms) website.
+[TheLab.ms](https://thelab.ms) website.
 
 ### 7.4 Floating Board Member
 
@@ -703,7 +711,7 @@ the voting membership.
 #### 7.7.1 Officer Oversight
 
 The Board of Directors is responsible for making sure the officers of
-[TheLAB.MS](https://thelab.ms) are performing their duties as defined
+[TheLab.ms](https://thelab.ms) are performing their duties as defined
 by these by laws, and providing any assistance that the Officers may
 need in performing those duties. This responsibility extends to
 oversight of the officers, but does not extend to altering the scope of
@@ -732,11 +740,11 @@ a formal meeting to draft the agenda.
 
 #### 7.7.3 Meetings
 
-The Board of Directors shall have an annual meeting, as required by
-Texas law. The annual meeting of the board of directors shall be on the
-third Tuesday in January. Notice of this annual meeting shall be
-provided electronically to all directors and members of the
-organization, at the e-mail address provided to the corporation, at
+The Board of Directors shall have an annual meeting, as required by Texas law.
+The annual meeting of the board of directors shall be on the third Tuesday in January 
+or within ten days of that date at a time and date set by the board of the directors.
+Notice of this annual meeting shall be provided electronically to all directors and 
+members of the organization, at the e-mail address provided to the corporation, at
 least 5 days in advance. Notice shall also be posted at the corporations
 registered address. The Board of Directors may also call special
 meetings other than the annual meeting, as necessary. Notice of any
@@ -749,21 +757,20 @@ of the board of directors.
 #### 7.7.4 Board Budget
 
 The board of directors is empowered to spend money from the general fund
-for any items necessary to maintain the day to day operation of the
-hackerspace, or to reimburse members for their purchases of these items,
-up to a limit of $1000 per year. Reimbursements will be considered upon
-delivery of the items purchased and the receipt. The decision to spend
-or reimburse under this amendment must be unanimous. Each expense or
-reimbursement under this amendment must be reported to the general
-membership at the next regular meeting and sent to the members via
-email.
+for any items necessary to maintain the day to day operation of the organization, 
+or to reimburse members for their purchases of these items, up to a limit of 
+80% of funds available beyond budgeted operational commitments per year. 
+Reimbursements will be considered upon delivery of the items purchased and the receipt. 
+The decision to spend or reimburse under this amendment must be approved by a vote of the board.
+Each expense or reimbursement under this amendment must be reported to the general 
+membership at the next regular meeting and posted electronically for review.
 
 #### 7.7.5 Loans
 
-[TheLAB.MS](https://thelab.ms) empowers its Board of Directors to
+[TheLab.ms](https://thelab.ms) empowers its Board of Directors to
 negotiate loans in good faith when it has the support of the membership.
-The President of [TheLAB.MS](https://thelab.ms) shall sign any and
-all financial agreements on behalf of [TheLAB.MS](https://thelab.ms).
+The President of [TheLab.ms](https://thelab.ms) shall sign any and
+all financial agreements on behalf of [TheLab.ms](https://thelab.ms).
 
 #### 7.7.6 Committees
 
@@ -971,9 +978,9 @@ responsibility for ensuring periodic reviews are conducted.
 9 Dissolution
 -------------
 
-If [TheLAB.MS](https://thelab.ms) is forced to dissolve due to
+If [TheLab.ms](https://thelab.ms) is forced to dissolve due to
 unfortunate circumstances, court order, or planned dissolution, the
-remaining assets and funds of [TheLAB.MS](https://thelab.ms) will be
+remaining assets and funds of [TheLab.ms](https://thelab.ms) will be
 dispersed to a 501(c)(3) organization with similar purpose, as
 determined by the board of directors.
 
@@ -984,3 +991,7 @@ These bylaws shall be amended by a majority vote of the membership,
 using the procedures stated in the Votes of the Membership section of
 these bylaws.
 
+<!-- -->
+
+    This document was approved by a vote of the membership at the annual meeting vote held on 6/11/2016.
+    Any future modifications are required to be approved in this same manner.

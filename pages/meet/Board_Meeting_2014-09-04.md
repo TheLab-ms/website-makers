@@ -1,5 +1,5 @@
 Title: Board Meeting 2014-09-04
-Date: 2010-12-03 10:20
+Date: 2014-09-04 10:20
 Modified: 2016-06-12 10:30
 Authors: Richard Gowen
 Summary: Board Meeting 2014-09-04
@@ -48,7 +48,7 @@ leadership will pay out of pocket to have their own printed. After all
 the leadership cards are printed we will compare quality and price from
 the various printing outlets used to determine which one will be used
 for the more generic cards that TheLab.ms will purchase. Estimated spend
-on generic business cards would be about \$50.
+on generic business cards would be about $50.
 
 Vote on spending money on generic (non-personal) business cards for
 TheLab.ms to hand out at events:
@@ -67,7 +67,7 @@ BSides hardware hacking village project. Need to ask Mike for some of
 his throwing star LAN Tap business cards. Even if Mike donates those we
 will need to purchase the other hardware (RJ45 connectors and
 capacitors) to make this project happen. Estimated spend for supplies
-assuming we can get the LAN Tap cards would be about \$90. Need to raise
+assuming we can get the LAN Tap cards would be about $90. Need to raise
 at the next membership meeting to gauge member interest / approval of
 this idea. Vote on the spend tabled until the next board meeting.
 
