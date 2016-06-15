@@ -1,5 +1,5 @@
 Title: Annual Meeting 2015-06-08
-Date: 2010-12-03 10:20
+Date: 2016-06-12 10:20
 Modified: 2016-06-12 10:30
 Authors: Richard Gowen
 Summary: Annual Meeting 2015-06-08
@@ -89,14 +89,13 @@ Reviewed the officer positions and current nominees for those positions.
 Solicited for new nominations from the membership. Here is the final
 list of officer positions and candidates:
 
-  ------------------------- --------------- ----------------
-  Position                  Nominees
-  Treasurer                 Jason Wheeler
-  Chief Legal Officer       NO CANDIDATE
-  Education Coordinator     Abby Wheeler    Gregory Miller
-  Chief Technical Officer   Jarrod Frates
-  Fundraising Coordinator   Abby Wheeler    Gregory Miller
-  ------------------------- --------------- ----------------
+Position                  | Nominees
+------------------------- | -------------------------------
+Treasurer                 | Jason Wheeler
+Chief Legal Officer       | NO CANDIDATE
+Education Coordinator     | Abby Wheeler, Gregory Miller
+Chief Technical Officer   | Jarrod Frates
+Fundraising Coordinator   | Abby Wheeler, Gregory Miller
 
 ### 5th Order of business:
 
@@ -104,14 +103,13 @@ Reviewed the board of director positions and current nominees for those
 positions. Solicited for new nominations from the membership. Here is
 the final list of board of director positions and candidates:
 
-  ----------------------- --------------- ---------------
-  Position                Nominees
-  President               Shawn Porter    Richard Gowen
-  Vice President          Roxy Dehart
-  Secretary               Shawn Porter    Richard Gowen
-  Floating Board Member   Don Powrie
-  Floating Board Member   Tommy Falgout
-  ----------------------- --------------- ---------------
+Position                | Nominees
+----------------------- | ------------------------------
+President               | Shawn Porter, Richard Gowen
+Vice President          | Roxy Dehart
+Secretary               | Shawn Porter, Richard Gowen
+Floating Board Member   | Don Powrie
+Floating Board Member   | Tommy Falgout
 
 ### 6th Order of business:
 
@@ -119,67 +117,58 @@ Reviewed the other items up for vote by the membership. Solicited for
 new items requiring votes from the membership. Here is the final list of
 other items that were to to membership vote:
 
-  ------------------------------------------------------------------------------------ -----------------------------------------------------------------------------------------------------------------------------------------------------------
-  Item                                                                                 Description
+Item                                 | Description
+------------------------------------ | ------------------------------------------------------------------------
+Motion to edit Bylaws section 7.6    | Regarding Bylaws section 7.6 Election of directors. Text as written does not allow for floating board members to vote on director positions as directors.
 
-  Motion to edit Bylaws section 7.6                                                    Regarding Bylaws section 7.6 Election of directors. Text as written does not allow for floating board members to vote on director positions as directors.
-
-  -   We can change it to include all five directors in the weighted director votes.
-  -   We can change it to be majority vote of membership.
-  -   We can leave it as is.
-  ------------------------------------------------------------------------------------ -----------------------------------------------------------------------------------------------------------------------------------------------------------
+-  We can change it to include all five directors in the weighted director votes.
+-  We can change it to be majority vote of membership.
+-  We can leave it as is.
 
 ### 7th Order of business:
 
 Online Voting Commenced. Results below.
 
-VOTE: Resolution of the formal vote of the membership on the other
-items:
+VOTE: Resolution of the formal vote of the membership on the other items:
 
-  --------------------------------------- ----------
-  Motion To Change Bylaws Section 7.6     Votes
-  Change to include floating directors    Votes: 9
-  Change to majority vote of membership   Votes: 5
-  Leave it unchanged                      Votes: 5
-  --------------------------------------- ----------
+Motion To Change Bylaws Section 7.6     | Votes
+--------------------------------------- | ----------
+Change to include floating directors    | Votes: 9
+Change to majority vote of membership   | Votes: 5
+Leave it unchanged                      | Votes: 5
 
 RESULTS: The Motion to change the Bylaws section 7.6 to include the
 floating directors in the weighted director votes passed.
 
-VOTE: Resolution of the formal vote of the membership on the officer
-positions:
+VOTE: Resolution of the formal vote of the membership on the officer positions:
 
-  ------------------------- ------------------- -------------------- ----------------
-  Position                  Nominees Votes                           Abstaining Votes
-  Treasurer                 Jason Wheeler: 19   
-  Chief Legal Officer       NO CANDIDATE: 0     
-  Education Coordinator     Abby Wheeler: 6     Gregory Miller: 13
-  Chief Technical Officer   Jarrod Frates: 19   
-  Fundraising Coordinator   Abby Wheeler: 13    Gregory Miller: 6
-  ------------------------- ------------------- -------------------- ----------------
+Position                  | Nominees Votes      |                      | Abstaining Votes
+------------------------- | ------------------- | -------------------- | ----------------
+Treasurer                 | Jason Wheeler: 19   |                      | 
+Chief Legal Officer       | NO CANDIDATE: 0     |                      | 
+Education Coordinator     | Abby Wheeler: 6     | Gregory Miller: 13   | 
+Chief Technical Officer   | Jarrod Frates: 19   |                      | 
+Fundraising Coordinator   | Abby Wheeler: 13    | Gregory Miller: 6    | 
 
 RESULTS: Here are the new officers per the membership vote
 
-  ------------------------- ----------------
-  Position                  Member Elected
-  Treasurer                 Jason Wheeler
-  Chief Legal Officer       VACANT
-  Education Coordinator     Gregory Miller
-  Chief Technical Officer   Jarrod Frates
-  Fundraising Coordinator   Abby Wheeler
-  ------------------------- ----------------
+Position                  | Member Elected
+------------------------- | ----------------
+Treasurer                 | Jason Wheeler
+Chief Legal Officer       | VACANT
+Education Coordinator     | Gregory Miller
+Chief Technical Officer   | Jarrod Frates
+Fundraising Coordinator   | Abby Wheeler
 
-VOTE: Resolution of the formal vote of the membership on the director
-positions weighted per the bylaws:
+VOTE: Resolution of the formal vote of the membership on the director positions weighted per the bylaws:
 
-  ----------------------- --------------------------------------- --------------------------- ---------------
-  Position                Nominees Votes (Directors) {Weighted}                               Abstaining Votes
-  President               Shawn Porter: 10 (2) {6}                Richard Gowen: 9 (3) {3}
-  Vice President          Roxy Dehart: 19 (5) {9}                 
-  Secretary               Shawn Porter: 9 (3) {3}                 Richard Gowen: 10 (2) {6}
-  Floating Board Member   Don Powrie: 19 (5) {9}                  
-  Floating Board Member   Tommy Falgout: 19 (5) {9}               
-  ----------------------- --------------------------------------- --------------------------- ---------------
+Position                | Nominees Votes (Directors) {Weighted}   |                             | Abstaining Votes
+----------------------- | --------------------------------------- | --------------------------- | ---------------
+President               | Shawn Porter: 10 (2) {6}                | Richard Gowen: 9 (3) {3}    | 
+Vice President          | Roxy Dehart: 19 (5) {9}                 |                             | 
+Secretary               | Shawn Porter: 9 (3) {3}                 | Richard Gowen: 10 (2) {6}   | 
+Floating Board Member   | Don Powrie: 19 (5) {9}                  |                             | 
+Floating Board Member   | Tommy Falgout: 19 (5) {9}               |                             | 
 
 NOTE: The Bylaw changed to adjust the weighting to include the floating
 board members did not affect the results of this vote. The weights are
@@ -192,13 +181,12 @@ and 2 for majority of membership the results would have remained the
 same in this case because the director vote was split. RESULTS: Here are
 the new directors per the membership vote
 
-  ----------------------- ----------------
-  Position                Member Elected
-  President               Shawn Porter
-  Vice President          Roxy Dehart
-  Secretary               Richard Gowen
-  Floating Board Member   Don Powrie
-  Floating Board Member   Tommy Falgout
-  ----------------------- ----------------
+Position                | Member Elected
+----------------------- | ----------------
+President               | Shawn Porter
+Vice President          | Roxy Dehart
+Secretary               | Richard Gowen
+Floating Board Member   | Don Powrie
+Floating Board Member   | Tommy Falgout
 
 

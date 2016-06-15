@@ -33,19 +33,17 @@ and at our space. `
 
 Here are the current membership Dues amounts that are in effect since 01/01/2016:
 
-```
-  Type                   Amount              Description
-  ---------------------- ------------------- ----------------------------------------------------------------
-  Monthly                \$30/Mo             Monthly Dues.
-  Yearly                 \$250/Yr            Yearly Dues (save \$110 a year).
-  Plank Holder Monthly   \$20/Mo             Monthly for members in good standing since prior to 12/31/2015
-  Plank Holder Yearly    \$200/Yr            Yearly for members in good standing since prior to 12/31/2015
-  Lifetime               No longer offered   These members paid \$1000 prior to 12/31/2015.
-```
+Type                   | Amount              | Description
+---------------------- | ------------------- | ----------------------------------------------------------------
+Monthly                | $30/Mo              | Monthly Dues.
+Yearly                 | $250/Yr             | Yearly Dues (save $110 a year).
+Plank Holder Monthly   | $20/Mo              | Monthly for members in good standing since prior to 12/31/2015
+Plank Holder Yearly    | $200/Yr             | Yearly for members in good standing since prior to 12/31/2015
+Lifetime               | No longer offered   | These members paid $1000 prior to 12/31/2015.
 
 Those members who signed up for a recurring payment plan prior to
 12/31/2015 are considered plank holders and lock in their membership
-dues amount at \$20/Mo or \$200/Yr for as long as they keep their
+dues amount at $20/Mo or $200/Yr for as long as they keep their
 membership current.
 
 Education Center
@@ -89,8 +87,7 @@ are in our facility:
     ordinance](https://www.municode.com/library/tx/plano/codes/code_of_ordinances?nodeId=PTIICOOR_CH14OFIS_ARTIVSM).
     -   Smokers and E-cigarette users must go outside at least 25 feet
         from the facility entrance and from entrances to neighboring
-        businesses per [Plano
-        ordinance](https://www.municode.com/library/tx/plano/codes/code_of_ordinances?nodeId=PTIICOOR_CH14OFIS_ARTIVSM_S14-67PLWHSMISPR).
+        businesses per [Plano ordinance](https://www.municode.com/library/tx/plano/codes/code_of_ordinances?nodeId=PTIICOOR_CH14OFIS_ARTIVSM_S14-67PLWHSMISPR).
 
 -   Consumption of alcoholic beverages in the facility is allowed by
     persons of legal drinking age as long as they do so responsibly.

@@ -61,14 +61,13 @@ Reviewed the board of director positions and current nominees for those
 positions. Solicited for new nominations from the membership. Here is
 the final list of board of director positions and candidates:
 
-    ----------------------- ---------------
-    Position                Nominees
-    President               Greg Miller, Pat Regan
-    Vice President          Roxy Dehart
-    Secretary               Richard Gowen
-    Floating Board Member   Shawn Porter
-    Floating Board Member   Tommy Falgout
-    ----------------------- ---------------
+Position                | Nominees
+----------------------- | ------------------------
+President               | Greg Miller, Pat Regan
+Vice President          | Roxy Dehart
+Secretary               | Richard Gowen
+Floating Board Member   | Shawn Porter
+Floating Board Member   | Tommy Falgout
 
 ### 3rd Order of business:
 
@@ -76,15 +75,14 @@ Reviewed the officer positions and current nominees for those positions.
 Solicited for new nominations from the membership. Here is the final
 list of officer positions and candidates:
 
-    ------------------------- ---------------
-    Position                  Nominees
-    Treasurer                 Tinker
-    Chief Legal Officer       NO CANDIDATE
-    Education Coordinator     Pat Regan
-    Chief Technical Officer   Whiskey Neon
-    Facility Coordinator      Neil Smith
-    Fundraising Coordinator   Chris Kearney
-    ------------------------- ---------------
+Position                  | Nominees
+------------------------- | ---------------
+Treasurer                 | Tinker
+Chief Legal Officer       | NO CANDIDATE
+Education Coordinator     | Pat Regan
+Chief Technical Officer   | Whiskey Neon
+Facility Coordinator      | Neil Smith
+Fundraising Coordinator   | Chris Kearney
 
 ### 4th Order of business:
 
@@ -175,48 +173,44 @@ items: RESULTS:
 VOTE: Resolution of the formal vote of the membership on the officer
 positions:
 
-    ------------------------- ------------------- ------------------ ----------------
-    Position                  Nominees Votes                         Abstaining Votes
-    Treasurer                 Tinker: 24          
-    Chief Legal Officer       NO CANDIDATE: 0     
-    Education Coordinator     Pat Regan: 24       
-    Chief Technical Officer   Whiskey Neon: 23    Burbon Xeon: 1
-    Fundraising Coordinator   Chris Kearney: 24   
-    Facility Coordinator      Neil Smith: 24      
-    ------------------------- ------------------- ------------------ ----------------
+Position                  | Nominees Votes      |                  | Abstaining Votes
+------------------------- | ------------------- | ---------------- | ----------------
+Treasurer                 | Tinker: 24          |                  | 
+Chief Legal Officer       | NO CANDIDATE: 0     |                  | 
+Education Coordinator     | Pat Regan: 24       |                  | 
+Chief Technical Officer   | Whiskey Neon: 23    | Burbon Xeon: 1   | 
+Fundraising Coordinator   | Chris Kearney: 24   |                  | 
+Facility Coordinator      | Neil Smith: 24      |                  | 
 
 RESULTS: Here are the new officers per the membership vote
 
-    ------------------------- ----------------
-    Position                  Member Elected
-    Treasurer                 Tinker
-    Chief Legal Officer       VACANT
-    Education Coordinator     Pat Regan
-    Chief Technical Officer   Whiskey Neon
-    Fundraising Coordinator   Chris Kearney
-    Facility Coordinator      Neil Smith
-    ------------------------- ----------------
+Position                  | Member Elected
+------------------------- | ----------------
+Treasurer                 | Tinker
+Chief Legal Officer       | VACANT
+Education Coordinator     | Pat Regan
+Chief Technical Officer   | Whiskey Neon
+Fundraising Coordinator   | Chris Kearney
+Facility Coordinator      | Neil Smith
 
 VOTE: Resolution of the formal vote of the membership on the director
 positions weighted per the bylaws:
 
-    ----------------------- --------------------------------------- ---------------------- ----------------
-    Position                Nominees Votes (Directors) {Weighted}                          Abstaining Votes
-    President               Greg Miller: 23 (4) {8}                 Pat Regan: 1 (0) {0}
-    Vice President          Roxy Dehart: 24 (4) {8}                 
-    Secretary               Richard Gowen: 24 (4) {8}               
-    Floating Board Member   Shawn Porter: 24 (4) {8}                
-    Floating Board Member   Tommy Falgout: 24 (4) {8}               
-    ----------------------- --------------------------------------- ---------------------- ----------------
+Position                | Nominees Votes (Directors) {Weighted}   |                        | Abstaining Votes
+----------------------- | --------------------------------------- | ---------------------- | ----------------
+President               | Greg Miller: 23 (4) {8}                 | Pat Regan: 1 (0) {0}   | 
+Vice President          | Roxy Dehart: 24 (4) {8}                 |                        | 
+Secretary               | Richard Gowen: 24 (4) {8}               |                        | 
+Floating Board Member   | Shawn Porter: 24 (4) {8}                |                        | 
+Floating Board Member   | Tommy Falgout: 24 (4) {8}               |                        | 
 
 RESULTS: Here are the new directors per the weighted vote
 
-    ----------------------- ----------------
-    Position                Member Elected
-    President               Greg Miller
-    Vice President          Roxy Dehart
-    Secretary               Richard Gowen
-    Floating Board Member   Shawn Porter
-    Floating Board Member   Tommy Falgout
-    ----------------------- ----------------
+Position                | Member Elected
+----------------------- | ----------------
+President               | Greg Miller
+Vice President          | Roxy Dehart
+Secretary               | Richard Gowen
+Floating Board Member   | Shawn Porter
+Floating Board Member   | Tommy Falgout
 

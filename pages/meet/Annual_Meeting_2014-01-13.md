@@ -1,5 +1,5 @@
 Title: Annual Meeting 2014-01-13
-Date: 2010-12-03 10:20
+Date: 2016-06-12 10:20
 Modified: 2016-06-12 10:30
 Authors: Richard Gowen
 Summary: Annual Meeting 2014-01-13
@@ -44,9 +44,9 @@ phrases: 'idea's having sex', 'conceptual orgies'
 ### 2nd Order of business:
 
 Reviewed our financial goals, estimated operating expenses, and
-potential location. Goal to raise \$100k+ in the first year to cover
+potential location. Goal to raise $100k+ in the first year to cover
 operating expenses for 1st and 2nd years and fund programs. Operating
-expenses estimated at \$35k/yr to cover rent, insurance, power, etc.
+expenses estimated at $35k/yr to cover rent, insurance, power, etc.
 Potential location identified in the Prairie Creek Village strip mall on
 15th St at Independence. Discussed fundraising options. Many fundraising
 ideas raised that should be presented in the forum for follow up on.
@@ -78,26 +78,23 @@ sponsor to teach those age groups not currently allowed to be members.
 Review open positions, nominations, and informal vote of the membership
 Here is the final list of opened positions and nominations:
 
-  -------------------------- -------------------------------------------------
-  Position                   Nominees
-  Treasurer                  Will W.
-  Chief Legal Officer        David H. (khoralin)
-  Public Relations Officer   Abby W. (evilllk)
-  Education Coordinator      Julio C. (juliocasablanca), Jason G. (init6)
-  Chief Technical Officer    Julio C. (juliocasablanca), Dwight S. (denzuko)
-  -------------------------- -------------------------------------------------
+Position                   | Nominees
+-------------------------- | -------------------------------------------------
+Treasurer                  | Will W.
+Chief Legal Officer        | David H. (khoralin)
+Public Relations Officer   | Abby W. (evilllk)
+Education Coordinator      | Julio C. (juliocasablanca), Jason G. (init6)
+Chief Technical Officer    | Julio C. (juliocasablanca), Dwight S. (denzuko)
 
-VOTE: Resolution of the informal vote of the membership on the open
-positions:
+VOTE: Resolution of the informal vote of the membership on the open positions:
 
-  -------------------------- ---------------------
-  Position                   Elected Official
-  Treasurer                  Will W.
-  Chief Legal Officer        David H. (khoralin)
-  Public Relations Officer   Abby W. (evilllk)
-  Education Coordinator      Jason G. (init6)
-  Chief Technical Officer    Dwight S. (denzuko)
-  -------------------------- ---------------------
+Position                   | Elected Official
+-------------------------- | ---------------------
+Treasurer                  | Will W.
+Chief Legal Officer        | David H. (khoralin)
+Public Relations Officer   | Abby W. (evilllk)
+Education Coordinator      | Jason G. (init6)
+Chief Technical Officer    | Dwight S. (denzuko)
 
 ### 6th Order of business:
 
@@ -107,9 +104,8 @@ order of business was raised to create and fill a new position titled
 (juliocasablanca). VOTE: Resolution of the informal vote of the
 membership on the new open position:
 
-  ------------------------- ----------------------------
-  Position                  Elected Official
-  Fundraising Coordinator   Julio C. (juliocasablanca)
-  ------------------------- ----------------------------
+Position                  | Elected Official
+------------------------- | ----------------------------
+Fundraising Coordinator   | Julio C. (juliocasablanca)
 
 

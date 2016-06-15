@@ -215,7 +215,7 @@ purchased from [TheLAB.MS](https://thelab.ms) and/or used to reduce a
 member&#39;s dues. Points can be earned by:
 
 -   Bringing in donations from third parties (cumulative throughout the
-    year) \$100 gets 1 Point, then an additional point every \$200
+    year) $100 gets 1 Point, then an additional point every $200
     thereafter.
 -   Running a public event of ten or more attendees or class of five or
     more earns 1 Point. Only one member can receive a Point award per
@@ -420,7 +420,7 @@ The board may decide on issues related to:
     organization&#39;s property in good working order and functioning in
     fulfillment of the organization&#39;s mission,
 -   spending money from the general fund on infrastructure improvements
-    costing less than \$300,
+    costing less than $300,
 -   spending money from the general fund to obtain advice and services
     for the management of the organization or the fulfillment of the
     organization&#39;s mission,
@@ -532,8 +532,8 @@ reimburse anyone for the purchase of safety equipment to be dedicated to
 [TheLAB.MS](https://thelab.ms) out of the general fund. The Treasurer
 is also empowered to buy safety equipment for
 [TheLAB.MS](https://thelab.ms) directly. The sum of these
-reimbursements and purchases may not exceed \$200 per calendar year or
-\$50 per reimbursement incident or purchase. What constitutes "safety
+reimbursements and purchases may not exceed $200 per calendar year or
+$50 per reimbursement incident or purchase. What constitutes "safety
 equipment" will be determined by the Treasurer and/or the chair of the
 safety committee on a case by case basis. A receipt must be provided for
 all donations or purchases that are reimbursed or paid for under this
@@ -751,7 +751,7 @@ of the board of directors.
 The board of directors is empowered to spend money from the general fund
 for any items necessary to maintain the day to day operation of the
 hackerspace, or to reimburse members for their purchases of these items,
-up to a limit of \$1000 per year. Reimbursements will be considered upon
+up to a limit of $1000 per year. Reimbursements will be considered upon
 delivery of the items purchased and the receipt. The decision to spend
 or reimburse under this amendment must be unanimous. Each expense or
 reimbursement under this amendment must be reported to the general
@@ -812,25 +812,25 @@ organizations.
 
 ### 8.2 Article II: Definitions:
 
--  1. Interested Person Any director, principal officer, or member of a
+1 Interested Person Any director, principal officer, or member of a
 committee with governing board delegated powers, who has a direct or
 indirect financial interest, as defined below, is an interested person.
 
--  2. Financial Interest A person has a financial interest if the person
+2 Financial Interest A person has a financial interest if the person
 has, directly or indirectly, through business, investment, or family:
 
-    -  a. An ownership or investment interest in any entity with which the
-          Organization has a transaction or arrangement,
+a. An ownership or investment interest in any entity with which the
+Organization has a transaction or arrangement,
 
-    -  b. A compensation arrangement with the Organization or with any entity
-          or individual with which the Organization has a transaction or
-          arrangement, or
+b. A compensation arrangement with the Organization or with any entity
+or individual with which the Organization has a transaction or
+arrangement, or
 
-    -  c. A potential ownership or investment interest in, or compensation
-          arrangement with, any entity or individual with which the Organization
-          is negotiating a transaction or arrangement. Compensation includes
-          direct and indirect remuneration as well as gifts or favors that are not
-          insubstantial.
+c. A potential ownership or investment interest in, or compensation
+arrangement with, any entity or individual with which the Organization
+is negotiating a transaction or arrangement. Compensation includes
+direct and indirect remuneration as well as gifts or favors that are not
+insubstantial.
 
 A financial interest is not necessarily a conflict of interest. Under
 Article III, Section 2, a person who has a financial interest may have a
@@ -839,71 +839,71 @@ committee decides that a conflict of interest exists.
 
 ### 8.3 Article III: Procedures
 
--  1. Duty to Disclose In connection with any actual or possible conflict
+1 Duty to Disclose In connection with any actual or possible conflict
 of interest, an interested person must disclose the existence of the
 financial interest and be given the opportunity to disclose all material
 facts to the directors and members of committees with governing board
 delegated powers considering the proposed transaction or arrangement.
 
--  2. Determining Whether a Conflict of Interest Exists After disclosure
+2 Determining Whether a Conflict of Interest Exists After disclosure
 of the financial interest and all material facts, and after any
 discussion with the interested person, he/she shall leave the governing
 board or committee meeting while the determination of a conflict of
 interest is discussed and voted upon. The remaining board or committee
 members shall decide if a conflict of interest exists.
 
--  3. Procedures for Addressing the Conflict of Interest
+3 Procedures for Addressing the Conflict of Interest
 
-    -  a. An interested person may make a presentation at the governing board
-          or committee meeting, but after the presentation, he/she shall leave the
-          meeting during the discussion of, and the vote on, the transaction or
-          arrangement involving the possible conflict of interest.
+a. An interested person may make a presentation at the governing board
+or committee meeting, but after the presentation, he/she shall leave the
+meeting during the discussion of, and the vote on, the transaction or
+arrangement involving the possible conflict of interest.
 
-    -  b. The chairperson of the governing board or committee shall, if
-          appropriate, appoint a disinterested person or committee to investigate
-          alternatives to the proposed transaction or arrangement.
+b. The chairperson of the governing board or committee shall, if
+appropriate, appoint a disinterested person or committee to investigate
+alternatives to the proposed transaction or arrangement.
 
-    -  c. After exercising due diligence, the governing board or committee
-          shall determine whether the Organization can obtain with reasonable
-          efforts a more advantageous transaction or arrangement from a person or
-          entity that would not give rise to a conflict of interest.
+c. After exercising due diligence, the governing board or committee
+shall determine whether the Organization can obtain with reasonable
+efforts a more advantageous transaction or arrangement from a person or
+entity that would not give rise to a conflict of interest.
 
-    -  d. If a more advantageous transaction or arrangement is not reasonably
-          possible under circumstances not producing a conflict of interest, the
-          governing board or committee shall determine by a majority vote of the
-          disinterested directors whether the transaction or arrangement is in the
-          Organization&#39;s best interest, for its own benefit, and whether it is
-          fair and reasonable. In conformity with the above determination it shall
-          make its decision as to whether to enter into the transaction or
-          arrangement.
+d. If a more advantageous transaction or arrangement is not reasonably
+possible under circumstances not producing a conflict of interest, the
+governing board or committee shall determine by a majority vote of the
+disinterested directors whether the transaction or arrangement is in the
+Organization&#39;s best interest, for its own benefit, and whether it is
+fair and reasonable. In conformity with the above determination it shall
+make its decision as to whether to enter into the transaction or
+arrangement.
 
--  4. Violations of the Conflicts of Interest Policy
+4 Violations of the Conflicts of Interest Policy
 
-    -  a. If the governing board or committee has reasonable cause to believe
-          a member has failed to disclose actual or possible conflicts of
-          interest, it shall inform the member of the basis for such belief and
-          afford the member an opportunity to explain the alleged failure to
-          disclose.
+a. If the governing board or committee has reasonable cause to believe
+a member has failed to disclose actual or possible conflicts of
+interest, it shall inform the member of the basis for such belief and
+afford the member an opportunity to explain the alleged failure to
+disclose.
 
-    -  b. If, after hearing the member&#39;s response and after making further
-          investigation as warranted by the circumstances, the governing board or
-          committee determines the member has failed to disclose an actual or
-          possible conflict of interest, it shall take appropriate disciplinary
-          and corrective action.
+b. If, after hearing the member&#39;s response and after making further
+investigation as warranted by the circumstances, the governing board or
+committee determines the member has failed to disclose an actual or
+possible conflict of interest, it shall take appropriate disciplinary
+and corrective action.
 
 ### 8.4 Article IV: Recordings of Proceedings
 
 The minutes of the governing board and all committees with board
 delegated powers shall contain:
 
--  a. The names of the persons who disclosed or otherwise were found to
+a. The names of the persons who disclosed or otherwise were found to
 have a financial interest in connection with an actual or possible
 conflict of interest, the nature of the financial interest, any action
 taken to determine whether a conflict of interest was present, and the
 governing board&#39;s or committee&#39;s decision as to whether a conflict of
 interest in fact existed.
 
--  b. The names of the persons who were present for discussions and votes
+b. The names of the persons who were present for discussions and votes
 relating to the transaction or arrangement, the content of the
 discussion, including any alternatives to the proposed transaction or
 arrangement, and a record of any votes taken in connection with the
@@ -911,16 +911,16 @@ proceedings.
 
 ### 8.5 Article V: Compensation
 
--  a. A voting member of the governing board who receives compensation,
+a. A voting member of the governing board who receives compensation,
 directly or indirectly, from the Organization for services is precluded
 from voting on matters pertaining to that member&#39;s compensation.
 
--  b. A voting member of any committee whose jurisdiction includes
+b. A voting member of any committee whose jurisdiction includes
 compensation matters and who receives compensation, directly or
 indirectly, from the Organization for services is precluded from voting
 on matters pertaining to that member&#39;s compensation.
 
--  c. No voting member of the governing board or any committee whose
+c. No voting member of the governing board or any committee whose
 jurisdiction includes compensation matters and who receives
 compensation, directly or indirectly, from the Organization, either
 individually or collectively, is prohibited from providing information
@@ -932,13 +932,13 @@ Annual Statements Each director, principal officer and member of a
 committee with governing board delegated powers shall annually sign a
 statement which affirms such person:
 
--  a. Has received a copy of the conflicts of interest policy,
+a. Has received a copy of the conflicts of interest policy,
 
--  b. Has read and understands the policy,
+b. Has read and understands the policy,
 
--  c. Has agreed to comply with the policy, and
+c. Has agreed to comply with the policy, and
 
--  d. Understands the Organization is charitable and in order to maintain
+d. Understands the Organization is charitable and in order to maintain
 its federal tax exemption it must engage primarily in activities which
 accomplish one or more of its tax exempt purposes.
 
@@ -950,11 +950,11 @@ jeopardize its tax-exempt status, periodic reviews shall be conducted.
 The periodic reviews shall, at a minimum, include the following
 subjects:
 
--  a. Whether compensation arrangements and benefits are reasonable, based
+a. Whether compensation arrangements and benefits are reasonable, based
 on competent survey information, and the result of arm&#39;s length
 bargaining.
 
--  b. Whether partnerships, joint ventures, and arrangements with
+b. Whether partnerships, joint ventures, and arrangements with
 management organizations conform to the Organization&#39;s written policies,
 are properly recorded, reflect reasonable investment or payments for
 goods and services, further charitable purposes and do not result in
