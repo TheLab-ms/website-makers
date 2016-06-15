@@ -19,5 +19,11 @@ The convert directory may be removed at some point in the future.
 Once the markdown files are created they must be modified to fix all the links.
 The fully corrected markdown file ready for pelican use is then moved to the pages directory.
 
+### Conversion Note
+
+Since pandoc did a crappy job all the pages needed to be manually updated.
+So, please be on the lookout for any typos or format issues that were missed.
+
+
 
 
