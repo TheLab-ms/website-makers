@@ -36,8 +36,8 @@ Programs
 Upcoming Meetings | We&#39;re In All The Places | Program Pages
 ---------- | ---------- | ---------- 
 [Meetup Events](https://www.meetup.com/TheLab-ms/) | [TheLab.ms](https://thelab.ms) | [Brew of the Month](Brew_Of_The_Month.html)
-[Schedule Event](mailto:leadership@thelab.ms) | [Facebook](https://www.facebook.com/thelabms) | TAP Wearable Electronics
-&nbsp; | [Twitter](https://twitter.com/TheLab_ms) | &nbsp;
+[Schedule Event](mailto:leadership@thelab.ms) | [Facebook](https://www.facebook.com/thelabms) | [TAP Wearable Electronics](/tap/)
+&nbsp; | [Twitter](https://twitter.com/TheLab_ms) | [SlingFest Trebuchet Contest](/slingfest/)
 &nbsp; | [Github](https://github.com/TheLab-ms) | &nbsp;
 **Meeting Minutes** | [Reddit](http://www.reddit.com/r/TheLab_ms/) | &nbsp;
 [Official Meetings](Meetings.html) | [Google+](https://plus.google.com/+TheLabMs/) | &nbsp;
