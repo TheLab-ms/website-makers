@@ -5,7 +5,7 @@ Summary: SlingFest Trebuchet Competition
 url: slingfest/
 save_as: slingfest/index.html
 
-TheLab.ms --a Plano-area maker space-- is excited to present the 6th Annual SlingFest on Sunday, October 30th beginning at 11:00 AM at Oak Point Park and Nature Preserve in Plano, TX.
+TheLab.ms is excited to present the 6th Annual SlingFest on Sunday, October 30th beginning at 11:00 AM at Oak Point Park and Nature Preserve in Plano, TX.
 
 ## What is SlingFest?
 
@@ -17,17 +17,18 @@ Competitors wage battle in five different categories in the competition: accurac
 ## Tickets
 
 Tickets can be purchased at the gate; $10 for adults (18+), $5 for kids aged 12-17, and free for kids under the age of 12. 
-However if purchased in advance, all tickets will cost $5. Eventbrite - Purchase Advance Tickets No pets allowed.
+
+If purchased in advance, tickets will cost $5. Please check back for pre-purchase details.
 
 ## Participants
 
 Have you built a trebuchet and your HOA won’t let you unleash it upon your neighborhood? 
-Bring it to SlingFest 2015 and enter all five competitions! 
-If you’re interested in competing, register on the DFW Trebuchet Facebook page or send an email to info@dfwtrebuchet.com
 
-## Event Details
+Bring it to SlingFest 20156 and enter all five competitions!  If you’re interested in competing, register on the DFW Trebuchet Facebook page or send an email to info@dfwtrebuchet.com
 
-* When: Sunday, November 15, 2015 11:00 AM to 4:00 PM
+## More Event Details
+
+* When: Sunday, October 30th, 2016 11:00 AM to 4:00 PM
 * Where: Oak Point Park and Nature Preserve, 2801 E Spring Creek Pkwy, Plano, TX 75074
 * Additional Logistic info
 * Rules & Regulations
