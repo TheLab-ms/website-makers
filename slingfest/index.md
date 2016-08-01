@@ -24,7 +24,7 @@ If purchased in advance, tickets will cost $5. Please check back for pre-purchas
 
 Have you built a trebuchet and your HOA won’t let you unleash it upon your neighborhood? 
 
-Bring it to SlingFest 20156 and enter all five competitions!  If you’re interested in competing, register on the DFW Trebuchet Facebook page or send an email to info@dfwtrebuchet.com
+Bring it to SlingFest 2016 and enter all five competitions!  If you’re interested in competing, register on the DFW Trebuchet Facebook page or send an email to info@dfwtrebuchet.com
 
 ## More Event Details
 
