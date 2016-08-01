@@ -30,16 +30,12 @@ Bring it to SlingFest 20156 and enter all five competitions!  If you’re intere
 
 * When: Sunday, October 30th, 2016 11:00 AM to 4:00 PM
 * Where: Oak Point Park and Nature Preserve, 2801 E Spring Creek Pkwy, Plano, TX 75074
-* Additional Logistic info
-* Rules & Regulations
-
-* 9AM - 11AM Trebuchet assembly and test fires
-* 11AM - Noon Spectator viewing and demo
-* Noon - 12:30PM Introductions
-* 12:30PM - 1:30PM Accuracy Contests (3 shots per team)
-* 1:30PM - 2:00PM Funky Fling (i.e. Best Ballistic)
-* 2:00PM - 3:00PM Distance Contests (3 shots per team)
-* 3:00PM - 3:30PM Awards Ceremony
-* 3:30PM - Close Cleanup
-                                                
-                                                
+* Schedule of Events: 
+  * 9AM - 11AM Trebuchet assembly and test fires
+  * 11AM - Noon Spectator viewing and demo
+  * Noon - 12:30PM Introductions
+  * 12:30PM - 1:30PM Accuracy Contests (3 shots per team)
+  * 1:30PM - 2:00PM Funky Fling (i.e. Best Ballistic)
+  * 2:00PM - 3:00PM Distance Contests (3 shots per team)
+  * 3:00PM - 3:30PM Awards Ceremony
+  * 3:30PM - Close Cleanup
