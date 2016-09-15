@@ -1,6 +1,6 @@
 Title: Brew of the Month
 Date: 2010-12-03 10:20
-Modified: 2016-06-12 10:30
+Modified: 2016-09-15 10:30
 Authors: Richard Gowen
 Summary: Brew Of The Month
 url: /
@@ -17,11 +17,12 @@ well as details about past events.
 Current Brew
 ------------
 
-[Brew\_Of\_The\_Month\_2016\_Jun](Brew_Of_The_Month_2016_Jun.html)
+[Brew\_Of\_The\_Month\_2016\_Jun](Brew_Of_The_Month_2016_Sep.html)
 
 Past Brews
 ----------
 
+-   [Brew\_Of\_The\_Month\_2016\_Jun](Brew_Of_The_Month_2016_Sep.html)
 -   [Brew\_Of\_The\_Month\_2016\_Jun](Brew_Of_The_Month_2016_Jun.html)
 -   [Brew\_Of\_The\_Month\_2016\_May](Brew_Of_The_Month_2016_May.html)
 -   [Brew\_Of\_The\_Month\_2016\_Mar](Brew_Of_The_Month_2016_Mar.html)
