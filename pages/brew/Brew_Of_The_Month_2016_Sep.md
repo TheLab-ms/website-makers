@@ -6,10 +6,10 @@ Summary: Brew Of The Month 2016 Sep
 url: /
 save_as: Brew_Of_The_Month_2016_Sep.html
 
-Friday September 23rd 19:00 Brew Night
+Friday September 23rd 19:00 Special Root Beer Brew Night
 -----------------------------------
 
-Join TheLab.ms for a special Root Beer Brew Night event on Friday September 23rd at 7 PM.
+Join TheLab.ms for a **Special Root Beer Brew Night** event on Friday September 23rd at 7 PM.
 
 The event will be held in the garage/driveway of [703 Cypress Drive in Allen TX 75002](https://goo.gl/maps/l7MTr). 
 
