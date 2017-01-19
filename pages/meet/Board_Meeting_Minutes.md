@@ -17,6 +17,9 @@ here for review.
 
 Click on the meeting date link that you wish to view the minutes for.
 
+-   [Board Meeting 2017-01-14](Board_Meeting_2017-01-14.html)
+-   [Board Meeting 2016-10-27](Board_Meeting_2016-10-27.html)
+-   [Board Meeting 2016-09-20](Board_Meeting_2016-09-20.html)
 -   [Board Meeting 2016-09-11](Board_Meeting_2016-09-11.html)
 -   [Board Meeting 2016-06-11](Board_Meeting_2016-06-11.html)
 -   [Board Meeting 2016-06-07](Board_Meeting_2016-06-07.html)
