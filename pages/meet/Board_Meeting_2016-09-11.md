@@ -1,6 +1,6 @@
 Title: Board Meeting 2016-09-11
 Date: 2016-09-11 10:20
-Modified: 2016-09-12 10:30
+Modified: 2017-02-04 10:30
 Authors: Richard Gowen
 Summary: Board Meeting 2016-09-11
 url: /
@@ -40,7 +40,7 @@ We can vote to prohibit all firearms (via penal code 30.06) at our facilities, o
 We can vote to prohibit open cary of firearms (via penal code 30.07) at our facilities, or
 We can vote to not place any prohibitions on firearms in which case both open and concealed carry would be allowed.
 
-Vote on the motion:
+Vote on the motion BV_20160911_A:
 
 -   Vote: 4 in favor of open carry prohibition, 0 opposed, 1 abstained
 -   Resolution: Vote passed to prohibit open cary of firearms (via penal code 30.07)
@@ -50,7 +50,7 @@ Vote on the motion:
 A motion has been raised regarding approving the spend of no more than $2500 for
 expenses related to Slingfest.  This includes insurance, park fee, and other expenses.
 
-Vote on the motion:
+Vote on the motion BV_20160911_B:
 
 -   Vote: 5 in favor, 0 opposed, 0 abstained
 -   Resolution: Vote passed
@@ -70,7 +70,7 @@ TheLab.ms would retain 100% of ticket sales.
 The term "sponsored by Plano Magazine and TheLab.ms" will be included on all marketing
 and may be expanded to include other large sponsors of the event if needed.
 
-Vote on the motion:
+Vote on the motion BV_20160911_C:
 
 -   Vote: 5 in favor, 0 opposed, 0 abstained
 -   Resolution: Vote passed
@@ -80,7 +80,7 @@ Vote on the motion:
 A motion has been raised regarding spending no more than $350 for expenses related to turning the Gas on.
 This includes the $100 Plano inspection fee and $250 for a plumber to pressure test the lines.
 
-Vote on the motion:
+Vote on the motion BV_20160911_D:
 
 -   Vote: 5 in favor, 0 opposed, 0 abstained
 -   Resolution: Vote passed
@@ -91,7 +91,7 @@ A motion has been raised regarding spending no more than $200 for a crash bar fo
 This will purchase the device with the assumption that we will attempt to install it ourselves.
 Should installation be problematic a future vote will be needed to secure contract labor.
 
-Vote on the motion:
+Vote on the motion BV_20160911_E:
 
 -   Vote: 5 in favor, 0 opposed, 0 abstained
 -   Resolution: Vote passed
@@ -103,7 +103,7 @@ Specifically the items that had been previously marked for auction in June and d
 With the option to hold back a few of the higher dollar items we could allow members to take all else and then
 anything left would be taken to the Goodwill.  This member take home event would happen at the next membership meeting.
 
-Vote on the motion:
+Vote on the motion BV_20160911_F:
 
 -   Vote: 5 in favor, 0 opposed, 0 abstained
 -   Resolution: Vote passed

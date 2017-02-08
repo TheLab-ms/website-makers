@@ -1,6 +1,6 @@
 Title: Board Meeting 2017-10-27
 Date: 2016-10-27 10:20
-Modified: 2016-10-27 10:30
+Modified: 2017-02-04 10:30
 Authors: Richard Gowen
 Summary: Board Meeting 2016-10-27
 url: /
@@ -40,7 +40,7 @@ However, due to this forcing people to cross a busy street this will also requir
 The total additional expenses are estimated at $800.
 This would be in addition to the previously approved $2500 amount from [Board Meeting 2016-09-11](Board_Meeting_2016-09-11.html) bringing the new total budgeted spend for SlingFest to $3300.
 
-Vote on the motion:
+Vote on the motion BV_20161027_A:
 
 -   Vote: 4 in favor, 0 opposed, 1 abstained
 -   Resolution: Vote passed to allow the spend of no more than $3300 total on the SlingFest event.

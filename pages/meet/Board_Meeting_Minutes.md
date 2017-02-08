@@ -1,6 +1,6 @@
 Title: Board Meeting Minutes
 Date: 2013-11-07 10:20
-Modified: 2016-09-12 10:30
+Modified: 2017-02-04 10:30
 Authors: Richard Gowen
 Summary: Board Meeting Minutes
 url: /
@@ -12,8 +12,9 @@ save_as: Board_Meeting_Minutes.html
 Board Meeting Minutes
 ---------------------
 
-Minutes for all board meetings and informal actions will be documented
-here for review.
+Minutes for all board meetings and informal actions will be documented here for review. 
+
+A summary of votes from the current board is available here: [Board Votes](Board_Votes.html)
 
 Click on the meeting date link that you wish to view the minutes for.
 
