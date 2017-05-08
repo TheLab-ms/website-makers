@@ -15,6 +15,15 @@ Board Votes
 This page is a summary of votes taken by the current board that took office following our last annual meeting in June.
 
 
+### BV_20170427_A:
+
+A motion has been raised to change the date of the annual meeting from Tuesday June 6th (as outlined in Bylaws) to Saturday June 3rd (within 10 days as allowed for by Bylaws with a vote of the board).  
+
+Vote on the motion BV_20170427_A:
+
+-   Vote: 4 in favor, 0 opposed, 1 abstained
+-   Resolution: Vote passed and the Annual meeting is now scheduled for Saturday June 3rd.
+
 ### BV_20170114_A:
 
 A motion has been raised regarding our previous vote allowing Coffee Del Rey to use our Internet on [Board Meeting 2016-09-20](Board_Meeting_2016-09-20.html)

@@ -1,6 +1,6 @@
 Title: Annual Meeting Minutes
-Date: 2016-06-12 10:20
-Modified: 2016-06-12 10:30
+Date: 2017-05-02 10:20
+Modified: 2017-05-02 10:30
 Authors: Richard Gowen
 Summary: Annual Meeting Minutes
 url: /
@@ -14,6 +14,8 @@ Annual Meeting Minutes
 
 Meetings for all member annual meeting as well as those with informal
 actions will be documented here for review.
+
+For information about an upcoming annual meeting see the [Annual Meeting Information](https://thelab.ms/annual.html) page.
 
 Click on the meeting date link that you wish to view the minutes for.
 

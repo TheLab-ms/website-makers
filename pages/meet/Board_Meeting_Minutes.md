@@ -18,6 +18,7 @@ A summary of votes from the current board is available here: [Board Votes](Board
 
 Click on the meeting date link that you wish to view the minutes for.
 
+-   [Board Meeting 2017-04-27](Board_Meeting_2017-04-27.html)
 -   [Board Meeting 2017-01-14](Board_Meeting_2017-01-14.html)
 -   [Board Meeting 2016-10-27](Board_Meeting_2016-10-27.html)
 -   [Board Meeting 2016-09-20](Board_Meeting_2016-09-20.html)
