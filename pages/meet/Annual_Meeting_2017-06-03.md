@@ -1,6 +1,6 @@
 Title: Annual Meeting 2017-06-03
 Date: 2017-06-03 10:20
-Modified: 2017-06-03 10:30
+Modified: 2017-06-13 10:30
 Authors: Richard Gowen
 Summary: Annual Meeting 2017-06-03
 url: /
@@ -38,7 +38,7 @@ A total of 20 voting members were present
 
 A total of 4 voting members were absent
 
-### Quarum
+### Quorum
 
 With 20 voting members present and 4 absent we had enough voting members
 to make a quorum per our bylaws.

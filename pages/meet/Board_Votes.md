@@ -1,6 +1,6 @@
 Title: Board Votes
 Date: 2017-02-04 10:20
-Modified: 2017-02-04 10:30
+Modified: 2017-06-14 10:30
 Authors: Richard Gowen
 Summary: Board Votes
 url: /
@@ -14,6 +14,41 @@ Board Votes
 
 This page is a summary of votes taken by the current board that took office following our last annual meeting in June.
 
+### BV_20170603_A:
+
+A motion has been raised regarding approving the spend of not more than $50
+for the purchase of a checkbook for use by the Treasurer in paying bills that require checks.
+
+Vote on the motion BV_20170603_A to allow the purchase of checks:
+
+-   Vote: 4 in favor, 0 opposed, 1 abstained
+-   Resolution: Vote passed
+
+### BV_20170603_B:
+
+A motion has been raised regarding awarding membership points for
+outstanding service in the past year. 
+
+The outgoing leadership team would each receive 3 membership points. This includes the following
+individuals: Greg Miller, Roxy Dehart, Richard Gowen, Tommy Falgout, Shawn Porter, Pat Regan, Whiskeyneon, Chris Kearney, and Neil Smith.
+The following individuals were also identified to receive 3 points each:
+Steven Brunt, Andrew Davis, Thefordness, Alex Courville, Hermit, Rex
+
+Vote on the motion BV_20170603_B to award membership points:
+
+-   Vote: 4 in favor, 0 opposed, 1 abstained
+-   Resolution: Vote passed
+
+### BV_20170603_C:
+
+A motion has been raised regarding approving the budget for Slingfest 2017.
+The costs for the event are expected to be about $4,000 made up of $1000 for field rental, 
+$800 for police, $300 for extra parking, $1400 for insurance, and $500 for marketing and other expenses.
+
+Vote on the motion BV_20170603_C to approve the spend of $4,000 for the Slingfest 2017 event:
+
+-   Vote: 4 in favor, 0 opposed, 1 abstained
+-   Resolution: Vote passed
 
 ### BV_20170427_A:
 
