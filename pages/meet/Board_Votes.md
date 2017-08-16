@@ -1,6 +1,6 @@
 Title: Board Votes
 Date: 2017-02-04 10:20
-Modified: 2017-06-14 10:30
+Modified: 2017-08-15 10:30
 Authors: Richard Gowen
 Summary: Board Votes
 url: /
@@ -13,6 +13,69 @@ Board Votes
 -----------------------------
 
 This page is a summary of votes taken by the current board that took office following our last annual meeting in June.
+
+
+### BV_20170812_A:
+
+A motion has been raised regarding Discounted rates for college students, unemployed, and retired individuals.  
+The rate would be 10 dollars a month.  Pat will write up something documenting the changes to add to our membership agreement.
+  
+Vote on the motion BV_20170812_A to offer a discounted rate:
+
+-   Vote: 5 in favor, 0 opposed, 0 abstained
+-   Resolution: Vote passed
+
+### BV_20170812_B:
+
+An email was received by leadership to receive a chair donation from Johnny’s company.
+
+Vote on the motion BV_20170812_B to accept the chairs:
+
+-   Vote: 5 in favor, 0 opposed, 0 abstained
+-   Resolution: Vote passed
+
+### BV_20170812_C:
+
+Brian proposed that TheLab finance a drone building event.  
+This would include enough parts to fill ten kits, tools to have at TheLab for people to use, and spare parts for a Drone work station.  
+Total Cost: $2000
+
+Vote on the motion BV_20170812_C to allow up to $2000 of TheLab’s finances for this event and stock workstation:
+
+-   Vote: 4 in favor, 1 opposed, 0 abstained
+-   Resolution: Vote passed
+
+### BV_20170812_D:
+
+A Motion was brought up to cancel our current cleaning company.
+In lieu of this we will offer a monthly membership to two individuals to clean TheLab instead.
+One of these memberships will be given to Pixie Thinkers and a second will remain open until we feel we need to add an additional cleaner.
+
+Vote on the motion BV_20170812_D to discontinue using our current cleaning company and offer two memberships to members instead:
+
+-   Vote: 5 in favor, 0 opposed, 0 abstained
+-   Resolution: Vote passed
+
+### BV_20170812_E:
+
+ Motion was brought up to utilize the second classroom’s closet for something besides an A/V room.
+This area will be used as a work area instead.  
+Space will be allocated in the new Work space for individual storage units.  
+The Storage units will be addressed at a future board meeting.
+
+Vote on the motion BV_20170812_E to utilize the closet in the second classroom as a work area and not an A/V Lab:
+
+-   Vote: 5 in favor, 0 opposed, 0 abstained
+-   Resolution: Vote passed
+
+### BV_20170708_A:
+
+A motion has been raised regarding cancelling Slingfest this year.
+
+Vote on the motion BV_20170708_A to cancel Slingfest:
+
+-   Vote: 4 in favor, 0 opposed, 1 abstained
+-   Resolution: Vote passed
 
 ### BV_20170603_A:
 

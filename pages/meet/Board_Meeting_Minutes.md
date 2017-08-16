@@ -1,6 +1,6 @@
 Title: Board Meeting Minutes
 Date: 2013-11-07 10:20
-Modified: 2017-06-03 10:30
+Modified: 2017-08-15 10:30
 Authors: Richard Gowen
 Summary: Board Meeting Minutes
 url: /
@@ -18,6 +18,8 @@ A summary of votes from the current board is available here: [Board Votes](Board
 
 Click on the meeting date link that you wish to view the minutes for.
 
+-   [Board Meeting 2017-08-12](Board_Meeting_2017-08-12.html)
+-   [Board Meeting 2017-07-08](Board_Meeting_2017-07-08.html)
 -   [Board Meeting 2017-06-03](Board_Meeting_2017-06-03.html)
 -   [Board Meeting 2017-04-27](Board_Meeting_2017-04-27.html)
 -   [Board Meeting 2017-01-14](Board_Meeting_2017-01-14.html)
