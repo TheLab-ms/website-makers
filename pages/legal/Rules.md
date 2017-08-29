@@ -33,13 +33,14 @@ and at our space. `
 
 Here are the current membership Dues amounts that are in effect since 01/01/2016:
 
-Type                   | Amount              | Description
----------------------- | ------------------- | ----------------------------------------------------------------
-Monthly                | $30/Mo              | Monthly Dues.
-Yearly                 | $250/Yr             | Yearly Dues (save $110 a year).
-Plank Holder Monthly   | $20/Mo              | Monthly for members in good standing since prior to 12/31/2015
-Plank Holder Yearly    | $200/Yr             | Yearly for members in good standing since prior to 12/31/2015
-Lifetime               | No longer offered   | These members paid $1000 prior to 12/31/2015.
+Type                       | Amount              | Description
+-------------------------- | ------------------- | --------------------------------------------------------------------
+Monthly                    | $30/Mo              | Monthly Dues.
+Yearly                     | $250/Yr             | Yearly Dues (save $110 a year).
+Student/Retired/Unemployed | $10/Mo              | Special rate for college students, retired, and unemployed members
+Plank Holder Monthly       | $20/Mo              | Monthly for members in good standing since prior to 12/31/2015
+Plank Holder Yearly        | $200/Yr             | Yearly for members in good standing since prior to 12/31/2015
+Lifetime                   | No longer offered   | These members paid $1000 prior to 12/31/2015.
 
 Those members who signed up for a recurring payment plan prior to
 12/31/2015 are considered plank holders and locked in their membership
