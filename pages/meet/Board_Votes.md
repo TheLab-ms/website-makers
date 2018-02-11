@@ -1,6 +1,6 @@
 Title: Board Votes
-Date: 2017-02-04 10:20
-Modified: 2017-08-15 10:30
+Date: 2018-02-10 19:20
+Modified: 2018-02-10 19:30
 Authors: Richard Gowen
 Summary: Board Votes
 url: /
@@ -14,6 +14,14 @@ Board Votes
 
 This page is a summary of votes taken by the current board that took office following our last annual meeting in June.
 
+### BV_20180210_A:
+
+The vote of the current board regarding accepting Brandon Hansford as the floating board member to break the tie is as follows:
+
+Vote on the motion BV_20180210_A to allow the purchase of checks:
+
+-   Vote: 3 in favor, 0 opposed, 2 abstained
+-   Resolution: Vote passed
 
 ### BV_20170812_A:
 

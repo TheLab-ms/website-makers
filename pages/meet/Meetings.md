@@ -1,6 +1,6 @@
 Title: Meetings
 Date: 2016-06-12 10:20
-Modified: 2017-02-04 10:30
+Modified: 2017-02-04 19:30
 Authors: Richard Gowen
 Summary: Meetings
 url: /
@@ -53,7 +53,7 @@ including our [Meetup](http://www.meetup.com/thelab-ms) event page.
 
 Meeting minutes for each of these meetings of the membership shall be
 recorded and made publicly available via the [Annual Meeting
-Minutes](Annual Meeting Minutes.html) page on this site.
+Minutes](Annual_Meeting_Minutes.html) page on this site.
 
 Board Meetings
 --------------
@@ -86,7 +86,7 @@ forward these will be formalized with notification just like the annual
 board meeting.
 
 Meeting minutes for all board meetings shall be recorded and made
-publicly available via the [Board Meeting Minutes](Board Meeting Minutes.html) page on this site.
+publicly available via the [Board Meeting Minutes](Board_Meeting_Minutes.html) page on this site.
 
 A summary of votes from the current board is available here: [Board Votes](Board_Votes.html)
 
