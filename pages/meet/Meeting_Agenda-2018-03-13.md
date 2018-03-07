@@ -9,7 +9,7 @@ save_as: Meeting_Agenda_2018-03-13.html
 [Main Page](index.html) -\> [Meetings](Meetings.html)
 -\> [Meeting_Agenda_2018-03-13](Meeting_Agenda_2018-03-13.html)
 
-Meeting Agenda for 2018-03-13
+[Meeting Agenda for 2018-03-13[(https://www.meetup.com/TheLab-ms/events/jqdblpyxfbrb)
 -----------------------------
 
 Items
