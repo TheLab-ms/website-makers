@@ -1,6 +1,6 @@
 Title: Meetings
 Date: 2016-06-12 10:20
-Modified: 2017-02-04 19:30
+Modified: 2018-03-06 23:00:30
 Authors: Richard Gowen
 Summary: Meetings
 url: /
@@ -29,6 +29,7 @@ page to notify members of these meetings and their location.
 
 No official minutes will be kept for regular meetings. 
 
+[Next Meeting 2018-03-13 8:00pm](Meeting_Agenda_2018-03-13.html)
 
 Annual Meetings
 ---------------
