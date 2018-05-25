@@ -174,6 +174,7 @@ All Members must also fulfill the following responsibilities:
     directors or an agent designated by the board of directors for this
     purpose.
 
+<a name="3_4_2"/>
 #### 3.4.2 Voting Members
 
 Voting Members enjoy the following additional privileges:
@@ -366,6 +367,7 @@ toward quorum for any vote in which they participate. Board members are
 not eligible to become Non-Voting Members. Records of member attendance
 and voting will be maintained by the Secretary.
 
+<a name="5_1_4"/>
 #### 5.1.4 Submitting an Issue for Vote
 
 Any voting Member may submit an issue for vote by the membership, unless
@@ -387,6 +389,7 @@ member meeting at which the issues will be voted on. The Board of
 Directors is responsible for sending out the notice of the meeting, with
 the agenda of timely submitted issues to be considered.
 
+<a name="5_1_6"/>
 #### 5.1.6 Voting By Proxy
 
 Members may vote by proxy. To vote on a matter by proxy, a member must

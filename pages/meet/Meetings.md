@@ -1,6 +1,6 @@
 Title: Meetings
 Date: 2016-06-12 10:20
-Modified: 2018-03-06 23:00:30
+Modified: 2018-05-02 22:00:10
 Authors: Richard Gowen
 Summary: Meetings
 url: /
@@ -17,6 +17,7 @@ Regular Meetings
 
 From our [Bylaws](Bylaws.html):
 
+
 > Regular meetings for TheLab.ms shall be held once a month at a time and date 
 > set by the board of the directors. Additional meetings may be held as 
 > determined by the board of directors. The meeting shall be held at the 
@@ -29,7 +30,7 @@ page to notify members of these meetings and their location.
 
 No official minutes will be kept for regular meetings. 
 
-[Next Meeting 2018-03-13 8:00pm](Meeting_Agenda_2018-03-13.html)
+[Next Meeting 2018-05-08 8:00pm](https://www.meetup.com/TheLab-ms/events/jqdblpyxhblb/)
 
 Annual Meetings
 ---------------
